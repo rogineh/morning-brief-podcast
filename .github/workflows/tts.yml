@@ -1,0 +1,61 @@
+name: Build Podcast Episode
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/pending/**"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: podcast-episode-build
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check for pending script
+        id: check
+        run: |
+          if [ -f scripts/pending/en.txt ] && [ -f scripts/pending/ko.txt ] && [ -f scripts/pending/meta.json ]; then
+            echo "has_pending=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "has_pending=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Set up Python
+        if: steps.check.outputs.has_pending == 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        if: steps.check.outputs.has_pending == 'true'
+        run: |
+          pip install --quiet edge-tts
+          sudo apt-get update -qq
+          sudo apt-get install -y --no-install-recommends ffmpeg
+
+      - name: Build episode
+        if: steps.check.outputs.has_pending == 'true'
+        id: build
+        run: python scripts/build_episode.py
+
+      - name: Commit and push
+        if: steps.check.outputs.has_pending == 'true'
+        run: |
+          git config user.name "morning-brief-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/ scripts/pending/
+          if git diff --cached --quiet; then
+            echo "Nothing to commit"
+            exit 0
+          fi
+          git commit -m "Publish episode ${{ steps.build.outputs.date }}" -m "${{ steps.build.outputs.description }}"
+          git push
