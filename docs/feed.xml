@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Morning Brief</title>
     <link>https://rogineh.github.io/morning-brief-podcast/</link>
-    <atom:link href="https://rogineh.github.io/morning-brief-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://rogineh.github.io/morning-brief-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <description>A short daily news brief covering technology and AI, Australian national news, Queensland, and the Gold Coast — made to listen to on the morning drive.</description>
     <language>en-au</language>
     <itunes:author>Morning Brief</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:category text="News"/>
+    <itunes:category text="News" />
     <item>
       <title>Morning Brief — Saturday, 12 September 2026</title>
       <description>Today: OpenAI, Google and Microsoft ramp up AI infrastructure spending while Anthropic discloses disrupted security threats; Australia mourns Blanche d'Alpuget and reacts to sliding PISA results; Queensland's credit rating is downgraded; and Gold Coast commuters face new rail closures from 19 September. Broadcast in English, followed by a full Korean-language version (오늘의 브리핑 영어 방송 후 한국어 전체 브리핑이 이어집니다).</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-12.mp3" type="audio/mpeg" length="4652517"/>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-12.mp3" type="audio/mpeg" length="4717437" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-12.mp3</guid>
       <pubDate>Sat, 12 Sep 2026 06:30:00 +1000</pubDate>
     </item>
