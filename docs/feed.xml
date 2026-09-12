@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Morning Brief</title>
+    <link>https://rogineh.github.io/morning-brief-podcast/</link>
+    <atom:link href="https://rogineh.github.io/morning-brief-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>A short daily news brief covering technology and AI, Australian national news, Queensland, and the Gold Coast — made to listen to on the morning drive.</description>
+    <language>en-au</language>
+    <itunes:author>Morning Brief</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="News"/>
+    <item>
+      <title>Morning Brief — Saturday, 12 September 2026</title>
+      <description>Today: OpenAI, Google and Microsoft ramp up AI infrastructure spending while Anthropic discloses disrupted security threats; Australia mourns Blanche d'Alpuget and reacts to sliding PISA results; Queensland's credit rating is downgraded; and Gold Coast commuters face new rail closures from 19 September.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-12.mp3" type="audio/mpeg" length="1883781"/>
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-12.mp3</guid>
+      <pubDate>Sat, 12 Sep 2026 06:30:00 +1000</pubDate>
+    </item>
+  </channel>
+</rss>

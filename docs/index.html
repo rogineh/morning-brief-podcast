@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Morning Brief</title>
+<style>
+  :root { color-scheme: light dark; }
+  body {
+    margin: 0;
+    padding: 2rem 1.25rem;
+    background: #faf9f6;
+    color: #1c1c1c;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+  }
+  main {
+    max-width: 640px;
+    margin: 0 auto;
+  }
+  h1 {
+    font-size: 1.75rem;
+    margin-bottom: 0.25rem;
+  }
+  .tagline {
+    color: #666;
+    margin-top: 0;
+    margin-bottom: 2rem;
+  }
+  .card {
+    background: #fff;
+    border: 1px solid #e5e2da;
+    border-radius: 12px;
+    padding: 1.25rem 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+  audio {
+    width: 100%;
+    margin-top: 0.75rem;
+  }
+  .feed-url {
+    display: block;
+    background: #f1efe9;
+    border-radius: 8px;
+    padding: 0.75rem 1rem;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    font-size: 0.9rem;
+    word-break: break-all;
+    margin-top: 0.75rem;
+  }
+  footer {
+    color: #999;
+    font-size: 0.85rem;
+    margin-top: 2rem;
+  }
+  @media (prefers-color-scheme: dark) {
+    body { background: #14140f; color: #e8e6e0; }
+    .card { background: #1e1e17; border-color: #33322a; }
+    .feed-url { background: #262620; }
+    .tagline, footer { color: #9a988f; }
+  }
+</style>
+</head>
+<body>
+<main>
+  <h1>Morning Brief</h1>
+  <p class="tagline">A short daily news podcast: technology &amp; AI, Australia, Queensland, and the Gold Coast — made for the morning drive.</p>
+
+  <div class="card">
+    <h2>Latest episode</h2>
+    <p id="episode-title">Saturday, 12 September 2026</p>
+    <audio controls preload="none" src="audio/brief-2026-09-12.mp3"></audio>
+  </div>
+
+  <div class="card">
+    <h2>Subscribe</h2>
+    <p>Paste this feed URL into any podcast app (Apple Podcasts, Overcast, Pocket Casts, Spotify, etc.):</p>
+    <code class="feed-url">https://rogineh.github.io/morning-brief-podcast/feed.xml</code>
+  </div>
+
+  <footer>New episodes published automatically each morning.</footer>
+</main>
+</body>
+</html>
