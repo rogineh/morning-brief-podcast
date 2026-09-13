@@ -1,0 +1,11 @@
+{
+  "date": "2026-09-14",
+  "title": "Morning Brief — Monday, 14 September 2026",
+  "description": "Today: proposed online-harm powers face pushback, mortgage rate competition heats up, and pensioners face health rebate cuts; Queensland investigates a residential-care assault case and coalmine security; and the Gold Coast deals with weekend traffic chaos and a hazard-reduction burn. Broadcast in English, followed by a full Korean-language version (호주, 퀵즐랜드, 그리고 골드코스트 소식을 전해드립니다).",
+  "show": {
+    "docs_subdir": "ksb",
+    "site_base": "https://rogineh.github.io/morning-brief-podcast/ksb",
+    "channel_title": "Morning Brief — Australia Edition",
+    "channel_description": "A short daily news brief covering Australian national news, Queensland, and the Gold Coast — made to listen to on the morning drive."
+  }
+}
