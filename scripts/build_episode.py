@@ -94,11 +94,13 @@ def combine_audio(en_mp3: Path, ko_mp3: Path, out_mp3: Path) -> None:
 def load_feed(feed_path: Path, site_base: str, channel_title: str, channel_description: str) -> ET.ElementTree:
     if feed_path.exists():
         return ET.parse(feed_path)
-    root = ET.Element("rss", {
-        "version": "2.0",
-        "xmlns:itunes": ITUNES_NS,
-        "xmlns:atom": ATOM_NS,
-    })
+    # Namespace declarations are NOT set manually here: ET.register_namespace()
+    # (module level) plus the Clark-notation tags below (e.g. f"{{{ITUNES_NS}}}author")
+    # already make ElementTree emit them once at serialization time. Adding them
+    # again as literal "xmlns:itunes"/"xmlns:atom" string attributes produced a
+    # duplicate-attribute (invalid XML) root tag - found on the first show whose
+    # feed.xml was actually bootstrapped by this function from scratch.
+    root = ET.Element("rss", {"version": "2.0"})
     channel = ET.SubElement(root, "channel")
     ET.SubElement(channel, "title").text = channel_title
     ET.SubElement(channel, "link").text = f"{site_base}/"
