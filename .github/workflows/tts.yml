@@ -23,11 +23,17 @@ jobs:
       - name: Check for pending script
         id: check
         run: |
+          has_pending=false
           if [ -f scripts/pending/en.txt ] && [ -f scripts/pending/ko.txt ] && [ -f scripts/pending/meta.json ]; then
-            echo "has_pending=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "has_pending=false" >> "$GITHUB_OUTPUT"
+            has_pending=true
           fi
+          for dir in scripts/pending/*/; do
+            [ -d "$dir" ] || continue
+            if [ -f "${dir}en.txt" ] && [ -f "${dir}ko.txt" ] && [ -f "${dir}meta.json" ]; then
+              has_pending=true
+            fi
+          done
+          echo "has_pending=$has_pending" >> "$GITHUB_OUTPUT"
 
       - name: Set up Python
         if: steps.check.outputs.has_pending == 'true'
@@ -58,4 +64,16 @@ jobs:
             exit 0
           fi
           git commit -m "Publish episode ${{ steps.build.outputs.date }}" -m "${{ steps.build.outputs.description }}"
-          git push
+          # Two independent shows can trigger this workflow around the same
+          # time; retry with rebase if another run's push landed first.
+          for attempt in 1 2 3 4; do
+            if git push; then
+              exit 0
+            fi
+            echo "Push failed (attempt $attempt), fetching and rebasing..."
+            sleep $((attempt * 3))
+            git fetch origin main
+            git rebase origin/main
+          done
+          echo "Push failed after retries"
+          exit 1
