@@ -26,3 +26,39 @@ Pushing those files triggers `.github/workflows/tts.yml`, which runs
 5. Deletes the consumed files in `scripts/pending/` and commits everything.
 
 If `scripts/pending/` is empty, the workflow is a no-op.
+
+## Multiple shows
+
+This repo can publish more than one independent podcast, each with its own
+feed and subscribe URL. The main show above uses the flat
+`scripts/pending/{en.txt,ko.txt,meta.json}` layout and publishes to `docs/`
+at the site root (`.../morning-brief-podcast/feed.xml`).
+
+Any other show is a subdirectory: `scripts/pending/<show_id>/{en.txt,ko.txt,meta.json}`.
+Its `meta.json` must include a `"show"` object so the build script knows
+where to publish it and how to bootstrap its feed the first time:
+
+```json
+{
+  "date": "2026-09-14",
+  "title": "Morning Brief — Monday, 14 September 2026",
+  "description": "...",
+  "show": {
+    "docs_subdir": "friend",
+    "site_base": "https://rogineh.github.io/morning-brief-podcast/friend",
+    "channel_title": "Morning Brief — Australia Edition",
+    "channel_description": "..."
+  }
+}
+```
+
+This publishes into `docs/<docs_subdir>/` with its own `feed.xml` and
+`index.html`, at `<site_base>/feed.xml` — a fully separate subscribe URL,
+pruned and updated independently of the main show. `channel_title` and
+`channel_description` are only used the first time that show's feed.xml is
+created; later episodes for the same show can omit them.
+
+The current second show is `friend` (`docs/friend/`) — an Australia/
+Queensland/Gold Coast-only edition with no tech or AI segment, at
+`https://rogineh.github.io/morning-brief-podcast/friend/feed.xml`. It has
+its own daily Routine that writes to `scripts/pending/friend/`.

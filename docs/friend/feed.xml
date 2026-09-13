@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Morning Brief — Australia Edition</title>
+    <link>https://rogineh.github.io/morning-brief-podcast/friend/</link>
+    <atom:link href="https://rogineh.github.io/morning-brief-podcast/friend/feed.xml" rel="self" type="application/rss+xml" />
+    <description>A short daily news brief covering Australian national news, Queensland, and the Gold Coast — no technology or AI news. Made to listen to on the morning drive.</description>
+    <language>en-au</language>
+    <itunes:author>Morning Brief</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="News" />
+    <item>
+      <title>Morning Brief — Sunday, 13 September 2026</title>
+      <description>Today: a looming lift on the plug-in solar ban, South Australia's aged-care bed-block costs, Queensland's weekend bushfire outbreak and a $1 million cold-case reward, and a Coomera townhouse fire on the Gold Coast. Broadcast in English, followed by a full Korean-language version (호주, 퀸즐랜드, 그리고 골드코스트 소식만 담았습니다. 영어 방송 후 한국어 전체 브리핑이 이어집니다).</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/friend/audio/brief-2026-09-13.mp3" type="audio/mpeg" length="3818853" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/friend/audio/brief-2026-09-13.mp3</guid>
+      <pubDate>Sun, 13 Sep 2026 20:17:00 +1000</pubDate>
+    </item>
+  </channel>
+</rss>
