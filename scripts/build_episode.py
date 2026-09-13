@@ -41,7 +41,7 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 PENDING_ROOT = REPO_ROOT / "scripts" / "pending"
 DOCS_DIR = REPO_ROOT / "docs"
 MAIN_SITE_BASE = "https://rogineh.github.io/morning-brief-podcast"
-MAIN_CHANNEL_TITLE = "Morning Brief"
+MAIN_CHANNEL_TITLE = "Daily Brief — Morning Edition"
 MAIN_CHANNEL_DESCRIPTION = (
     "A short daily news brief covering technology and AI, Australian "
     "national news, Queensland, and the Gold Coast — made to listen "
@@ -108,7 +108,7 @@ def load_feed(feed_path: Path, site_base: str, channel_title: str, channel_descr
     atom_link.set("type", "application/rss+xml")
     ET.SubElement(channel, "description").text = channel_description
     ET.SubElement(channel, "language").text = "en-au"
-    ET.SubElement(channel, f"{{{ITUNES_NS}}}author").text = "Morning Brief"
+    ET.SubElement(channel, f"{{{ITUNES_NS}}}author").text = channel_title
     ET.SubElement(channel, f"{{{ITUNES_NS}}}explicit").text = "false"
     cat = ET.SubElement(channel, f"{{{ITUNES_NS}}}category")
     cat.set("text", "News")
