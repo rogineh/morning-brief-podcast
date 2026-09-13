@@ -10,6 +10,13 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News" />
     <item>
+      <title>Morning Brief Special — Australia, Queensland &amp; Gold Coast</title>
+      <description>A special bonus edition focused only on Australia, Queensland and the Gold Coast: a looming lift on the plug-in solar ban, South Australia's aged-care bed-block costs, Queensland's weekend bushfire outbreak and a $1 million cold-case reward, and a Coomera townhouse fire on the Gold Coast. Broadcast in English, followed by a full Korean-language version (호주, 퀵즐랜드, 그리고 골드코스트 소식만 담은 특별편입니다. 영어 방송 후 한국어 전체 브리핑이 이어집니다).</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-13-special.mp3" type="audio/mpeg" length="3818853" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-13-special.mp3</guid>
+      <pubDate>Sun, 13 Sep 2026 20:17:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Morning Brief — Sunday, 13 September 2026</title>
       <description>Today: a major AI-agent attack campaign compromises 440+ PaperCut servers worldwide while sandbox flaws surface in leading AI coding tools; Australia weighs new gambling-ad reforms and a coastal flood-risk study; Queensland lands the Wallaroos and Rugby Sevens; and the Gold Coast's Coolangatta light rail extension is reportedly scrapped amid rapid population growth. Broadcast in English, followed by a full Korean-language version (오늘의 브리핑 영어 방송 후 한국어 전체 브리핑이 이어집니다).</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-13.mp3" type="audio/mpeg" length="4664109" />
