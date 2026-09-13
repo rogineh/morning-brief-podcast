@@ -7,6 +7,11 @@ that writes the scripts, whose network policy blocks edge-tts).
 
 Expects scripts/pending/en.txt, scripts/pending/ko.txt, scripts/pending/meta.json.
 meta.json: {"date": "YYYY-MM-DD", "title": "...", "description": "..."}
+Optional fields:
+  "slug": filename/guid identity distinct from "date" (e.g. "2026-09-13-extra"),
+          for a same-day bonus episode that shouldn't overwrite the daily one.
+  "pub_datetime": full ISO8601 datetime with offset to use as pubDate instead
+          of the default <date>T06:30:00+10:00.
 """
 import json
 import os
@@ -127,8 +132,9 @@ def main() -> int:
     date_str = meta["date"]
     title = meta["title"]
     description = meta["description"]
+    slug = meta.get("slug", date_str)
 
-    mp3_name = f"brief-{date_str}.mp3"
+    mp3_name = f"brief-{slug}.mp3"
     mp3_path = AUDIO_DIR / mp3_name
 
     tmp_en = Path("/tmp/brief-en.mp3")
@@ -138,9 +144,12 @@ def main() -> int:
     combine_audio(tmp_en, tmp_ko, mp3_path)
 
     file_size = mp3_path.stat().st_size
-    pub_dt = datetime.strptime(date_str, "%Y-%m-%d").replace(
-        hour=6, minute=30, second=0, tzinfo=AEST
-    )
+    if "pub_datetime" in meta:
+        pub_dt = datetime.fromisoformat(meta["pub_datetime"])
+    else:
+        pub_dt = datetime.strptime(date_str, "%Y-%m-%d").replace(
+            hour=6, minute=30, second=0, tzinfo=AEST
+        )
     guid_url = f"{SITE_BASE}/audio/{mp3_name}"
 
     tree = load_feed()
