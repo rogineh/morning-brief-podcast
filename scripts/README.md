@@ -44,8 +44,8 @@ where to publish it and how to bootstrap its feed the first time:
   "title": "Morning Brief — Monday, 14 September 2026",
   "description": "...",
   "show": {
-    "docs_subdir": "friend",
-    "site_base": "https://rogineh.github.io/morning-brief-podcast/friend",
+    "docs_subdir": "ksb",
+    "site_base": "https://rogineh.github.io/morning-brief-podcast/ksb",
     "channel_title": "Morning Brief — Australia Edition",
     "channel_description": "..."
   }
@@ -58,7 +58,7 @@ pruned and updated independently of the main show. `channel_title` and
 `channel_description` are only used the first time that show's feed.xml is
 created; later episodes for the same show can omit them.
 
-The current second show is `friend` (`docs/friend/`) — an Australia/
+The current second show is `ksb` (`docs/ksb/`) — an Australia/
 Queensland/Gold Coast-only edition with no tech or AI segment, at
-`https://rogineh.github.io/morning-brief-podcast/friend/feed.xml`. It has
-its own daily Routine that writes to `scripts/pending/friend/`.
+`https://rogineh.github.io/morning-brief-podcast/ksb/feed.xml`. It has
+its own daily Routine that writes to `scripts/pending/ksb/`.
