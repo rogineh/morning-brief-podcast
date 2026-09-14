@@ -10,6 +10,13 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News" />
     <item>
+      <title>Daily Brief — Afternoon Edition — Monday, 14 September 2026</title>
+      <description>Today: Anthropic forecasts a profitable quarter as Fable 5.1 tops a new Real-SWE benchmark; two AI safety researchers depart Anthropic and Google DeepMind for METR; Australia's only nuclear reactor marks 20 years; Brisbane's parking-fine haul nears $35 million; and Gold Coast's Spit gets its first residential development plan. Broadcast in English, followed by a full Korean-language version (오늘의 브리핑 영어 방송 후 한국어 전체 브리핑이 이어집니다).</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-09-14.mp3" type="audio/mpeg" length="3185493" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-09-14.mp3</guid>
+      <pubDate>Mon, 14 Sep 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Daily Brief — Afternoon Edition — Sunday, 13 September 2026</title>
       <description>Today: OpenAI launches its GPT-Live voice model and a new cross-industry AI-agent trust framework debuts; Australia's Parliament tackles superannuation and NDIS reform; Queensland investigates coalmine contraband and a new bee mite detection; and a 1995 Gold Coast cold case reopens. Broadcast in English, followed by a full Korean-language version (오늘의 브리핑 영어 방송 후 한국어 전체 브리핑이 이어집니다).</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-09-13.mp3" type="audio/mpeg" length="4072365" />
