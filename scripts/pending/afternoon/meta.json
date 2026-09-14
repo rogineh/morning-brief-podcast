@@ -1,0 +1,11 @@
+{
+  "date": "2026-09-14",
+  "title": "Daily Brief — Afternoon Edition — Monday, 14 September 2026",
+  "description": "Today: Anthropic forecasts a profitable quarter as Fable 5.1 tops a new Real-SWE benchmark; two AI safety researchers depart Anthropic and Google DeepMind for METR; Australia's only nuclear reactor marks 20 years; Brisbane's parking-fine haul nears $35 million; and Gold Coast's Spit gets its first residential development plan. Broadcast in English, followed by a full Korean-language version (오늘의 브리핑 영어 방송 후 한국어 전체 브리핑이 이어집니다).",
+  "show": {
+    "docs_subdir": "afternoon",
+    "site_base": "https://rogineh.github.io/morning-brief-podcast/afternoon",
+    "channel_title": "Daily Brief — Afternoon Edition",
+    "channel_description": "A short daily news brief covering technology and AI, Australian national news, Queensland, and the Gold Coast — made for your afternoon drive."
+  }
+}
