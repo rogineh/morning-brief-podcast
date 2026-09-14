@@ -10,6 +10,13 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News" />
     <item>
+      <title>Daily Brief — Morning Edition — Tuesday, 15 September 2026</title>
+      <description>Today: Apple's iOS 27 brings the public debut of Siri AI while Meta reshapes its AI workforce; Barnaby Joyce defends One Nation's net-negative migration plan against economist warnings; Queensland's bail law overhaul draws heavy criticism from legal and advocacy groups; and a new study names the Gold Coast Australia's most exposed city to rising sea levels. Broadcast in English, followed by a full Korean-language version (오늘의 브리핑 영어 방송 후 한국어 전체 브리핑이 이어집니다).</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-15.mp3" type="audio/mpeg" length="4991637" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-15.mp3</guid>
+      <pubDate>Tue, 15 Sep 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Daily Brief — Morning Edition — Monday, 14 September 2026</title>
       <description>Today: a new AI chip codenamed Asimov targets 16-trillion-parameter models; a two-decade-old Australian cold case theory crumbles after a murder charge; Queensland households get an electricity price cut; and a Gold Coast fish sculpture grows way bigger than planned. Broadcast in English, followed by a full Korean-language version (오늘의 브리핑 영어 방송 후 한국어 전체 브리핑이 이어집니다).</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-14.mp3" type="audio/mpeg" length="4227813" />
