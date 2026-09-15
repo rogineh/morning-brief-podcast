@@ -9,6 +9,12 @@
     <itunes:author>Daily Brief — Afternoon Edition</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News" />
+    <itunes:image href="https://rogineh.github.io/morning-brief-podcast/afternoon/cover.png" />
+    <image>
+      <url>https://rogineh.github.io/morning-brief-podcast/afternoon/cover.png</url>
+      <title>Daily Brief — Afternoon Edition</title>
+      <link>https://rogineh.github.io/morning-brief-podcast/afternoon/</link>
+    </image>
     <item>
       <title>Daily Brief — Afternoon Edition — Tuesday, 15 September 2026</title>
       <description>Today: Microsoft publishes a new AI Code of Conduct as tech-industry layoffs pass 210,000 for the year; Canberra presses ahead with a private health rebate cut for over-65s and Pauline Hanson offers a qualified apology; Queensland searches for a missing Biloela girl while the town's hospital regains birthing services; and the Gold Coast's Marine Quarter breaks ground as Suns forward Ben King eyes free agency. Broadcast in English, followed by a full Korean-language version (오늘의 브리핑 영어 방송 후 한국어 전체 브리핑이 이어집니다).</description>
