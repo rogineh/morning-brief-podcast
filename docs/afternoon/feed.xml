@@ -10,6 +10,13 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News" />
     <item>
+      <title>Daily Brief — Afternoon Edition — Tuesday, 15 September 2026</title>
+      <description>Today: Microsoft publishes a new AI Code of Conduct as tech-industry layoffs pass 210,000 for the year; Canberra presses ahead with a private health rebate cut for over-65s and Pauline Hanson offers a qualified apology; Queensland searches for a missing Biloela girl while the town's hospital regains birthing services; and the Gold Coast's Marine Quarter breaks ground as Suns forward Ben King eyes free agency. Broadcast in English, followed by a full Korean-language version (오늘의 브리핑 영어 방송 후 한국어 전체 브리핑이 이어집니다).</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-09-15.mp3" type="audio/mpeg" length="4093005" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-09-15.mp3</guid>
+      <pubDate>Tue, 15 Sep 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Daily Brief — Afternoon Edition — Monday, 14 September 2026</title>
       <description>Today: Anthropic forecasts a profitable quarter as Fable 5.1 tops a new Real-SWE benchmark; two AI safety researchers depart Anthropic and Google DeepMind for METR; Australia's only nuclear reactor marks 20 years; Brisbane's parking-fine haul nears $35 million; and Gold Coast's Spit gets its first residential development plan. Broadcast in English, followed by a full Korean-language version (오늘의 브리핑 영어 방송 후 한국어 전체 브리핑이 이어집니다).</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-09-14.mp3" type="audio/mpeg" length="3185493" />
