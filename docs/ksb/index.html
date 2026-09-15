@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Morning Brief — Australia Edition</title>
+<link rel="icon" type="image/png" href="cover.png">
 <style>
   :root { color-scheme: light dark; }
   body {
@@ -18,9 +19,25 @@
     max-width: 640px;
     margin: 0 auto;
   }
+  .cover {
+    display: block;
+    width: 160px;
+    height: 160px;
+    border-radius: 16px;
+    margin-bottom: 1.25rem;
+    box-shadow: 0 4px 18px rgba(0,0,0,0.18);
+  }
   h1 {
     font-size: 1.75rem;
     margin-bottom: 0.25rem;
+  }
+  .byline {
+    color: #888;
+    margin: 0 0 0.75rem;
+    font-size: 0.95rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
   }
   .tagline {
     color: #666;
@@ -57,13 +74,15 @@
     body { background: #14140f; color: #e8e6e0; }
     .card { background: #1e1e17; border-color: #33322a; }
     .feed-url { background: #262620; }
-    .tagline, footer { color: #9a988f; }
+    .byline, .tagline, footer { color: #9a988f; }
   }
 </style>
 </head>
 <body>
 <main>
+  <img class="cover" src="cover.png" alt="Morning Brief — Australia Edition cover art">
   <h1>Morning Brief — Australia Edition</h1>
+  <p class="byline">by Rogineh</p>
   <p class="tagline">A short daily news podcast: Australia, Queensland, and the Gold Coast — made for the morning drive.</p>
 
   <div class="card">

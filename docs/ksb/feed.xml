@@ -6,9 +6,15 @@
     <atom:link href="https://rogineh.github.io/morning-brief-podcast/ksb/feed.xml" rel="self" type="application/rss+xml" />
     <description>A short daily news brief covering Australian national news, Queensland, and the Gold Coast — made to listen to on the morning drive.</description>
     <language>en-au</language>
-    <itunes:author>Morning Brief</itunes:author>
+    <itunes:author>Rogineh</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News" />
+    <itunes:image href="https://rogineh.github.io/morning-brief-podcast/ksb/cover.png" />
+    <image>
+      <url>https://rogineh.github.io/morning-brief-podcast/ksb/cover.png</url>
+      <title>Morning Brief — Australia Edition</title>
+      <link>https://rogineh.github.io/morning-brief-podcast/ksb/</link>
+    </image>
     <item>
       <title>Morning Brief — Tuesday, 15 September 2026</title>
       <description>Today: political leaders condemn Pauline Hanson's resurfaced Indigenous comments and the Sydney Roosters cap a record NRLW season; a destructive bee mite reaches its northernmost detection in Far North Queensland and a coronial inquest hears from a missing woman's daughter; and a Gold Coast gang-recruitment crackdown nets fifteen charges as the city trials a pedestrian-only Surfers Paradise esplanade. Broadcast in English, followed by a full Korean-language version (오늘의 브리핑 영어 방송 후 한국어 전체 브리핑이 이어집니다).</description>
