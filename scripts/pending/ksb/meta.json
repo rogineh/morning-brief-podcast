@@ -1,0 +1,11 @@
+{
+  "date": "2026-09-17",
+  "title": "Morning Brief — Thursday, 17 September 2026",
+  "description": "Today: oil prices spike on a Saudi supply disruption and a century-old murder hotel hits the market in WA; a Brisbane BMX rider's Scientology speedrun stunt lands him in court alongside a serious pedestrian assault case; and a revamped Gold Coast bus network rolls out as part of a $543m transport investment. Broadcast in English, followed by a full Korean-language version (오늘의 브리핑 영어 방송 후 한국어 전체 브리핑이 이어집니다).",
+  "show": {
+    "docs_subdir": "ksb",
+    "site_base": "https://rogineh.github.io/morning-brief-podcast/ksb",
+    "channel_title": "Morning Brief — Australia Edition",
+    "channel_description": "A short daily news brief covering Australian national news, Queensland, and the Gold Coast — made to listen to on the morning drive."
+  }
+}
