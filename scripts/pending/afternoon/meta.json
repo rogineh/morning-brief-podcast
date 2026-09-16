@@ -1,0 +1,11 @@
+{
+  "date": "2026-09-16",
+  "title": "Daily Brief — Afternoon Edition — Wednesday, 16 September 2026",
+  "description": "Today: Shanghai AI Lab quietly ships a free 744B-parameter agentic model as businesses give AI narrower, specific jobs; Tony Burke's migration overhaul lands tomorrow while the Plymouth Brethren church faces a parliamentary inquiry; Brisbane ferries face another strike stoppage; and the Gold Coast Suns confirm Ben King's departure as rail closures loom. Broadcast in English, followed by a full Korean-language version (오늘의 브리핑 영어 방송 후 한국어 전체 브리핑이 이어집니다).",
+  "show": {
+    "docs_subdir": "afternoon",
+    "site_base": "https://rogineh.github.io/morning-brief-podcast/afternoon",
+    "channel_title": "Daily Brief — Afternoon Edition",
+    "channel_description": "A short daily news brief covering technology and AI, Australian national news, Queensland, and the Gold Coast — made for your afternoon drive."
+  }
+}
