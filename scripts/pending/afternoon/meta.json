@@ -1,0 +1,11 @@
+{
+  "date": "2026-09-18",
+  "title": "Daily Brief — Afternoon Edition — Friday, 18 September 2026",
+  "description": "Today: Canada and Germany back Yoshua Bengio's LawZero with $300m for safer AI as TechCrunch Disrupt 2026 nears; Albanese heads to the UN with a digital safety push while the Greens question the government's deportation plans; Queensland police search for an armed man near Greenvale and charge a teen with extremist offences; and a new report finds barely 1% of Gold Coast hotel rooms are accessible ahead of the 2032 Olympics. Broadcast in English, followed by a full Korean-language version (오늘의 브리핑 영어 방송 후 한국어 전체 브리핑이 이어집니다).",
+  "show": {
+    "docs_subdir": "afternoon",
+    "site_base": "https://rogineh.github.io/morning-brief-podcast/afternoon",
+    "channel_title": "Daily Brief — Afternoon Edition",
+    "channel_description": "A short daily news brief covering technology and AI, Australian national news, Queensland, and the Gold Coast — made for your afternoon drive."
+  }
+}
