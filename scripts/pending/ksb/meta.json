@@ -1,0 +1,11 @@
+{
+  "date": "2026-09-20",
+  "title": "Morning Brief — Sunday, 20 September 2026",
+  "description": "Today: a US-funded search off Broome wraps up as the Junior Matildas qualify for the U-17 World Cup; Brisbane and Moreton detectives charge two men over 81 property offences and a Southport teen faces a Wavell Heights burglary charge; and HOTA welcomes the White Rabbit Collection and a new Children's Gallery exhibition to the Gold Coast. Broadcast in English, followed by a full Korean-language version (오늘의 브리핑 영어 방송 후 한국어 전체 브리핑이 이어집니다).",
+  "show": {
+    "docs_subdir": "ksb",
+    "site_base": "https://rogineh.github.io/morning-brief-podcast/ksb",
+    "channel_title": "Morning Brief — Australia Edition",
+    "channel_description": "A short daily news brief covering Australian national news, Queensland, and the Gold Coast — made to listen to on the morning drive."
+  }
+}
