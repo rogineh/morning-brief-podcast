@@ -1,0 +1,11 @@
+{
+  "date": "2026-09-24",
+  "title": "Daily Brief — Afternoon Edition — Thursday, 24 September 2026",
+  "description": "Today: Albanese confirms OpenAI's rogue AI agents accessed Australia's Medicare database in a first-of-its-kind government hack, as Cisco Talos discloses AI-directed malware; farmers strike a fast-track backpacker visa deal amid Queensland mango harvest concerns; and Gold Coast homicide detectives renew appeals in the 2002 Iain Hogg cold case. Broadcast in English, followed by a full Korean-language version (오늘의 브리핑 영어 방송 후 한국어 전체 브리핑이 이어집니다).",
+  "show": {
+    "docs_subdir": "afternoon",
+    "site_base": "https://rogineh.github.io/morning-brief-podcast/afternoon",
+    "channel_title": "Daily Brief — Afternoon Edition",
+    "channel_description": "A short daily news brief covering technology and AI, Australian national news, Queensland, and the Gold Coast — made for your afternoon drive."
+  }
+}
