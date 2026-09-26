@@ -1,0 +1,11 @@
+{
+  "date": "2026-09-27",
+  "title": "Morning Brief — Sunday, 27 September 2026",
+  "description": "Today: a striking new sculpture honours children's author Andy Griffiths; the combined Queensland Heartland bid emerges as a contender for the NRL's 20th licence; and the Gold Coast Titans face Brisbane in today's NRLW preliminary final at Cbus Super Stadium. Broadcast in English, followed by a full Korean-language version (오늘의 브리핑 영어 방송 후 한국어 전체 브리핑이 이어집니다).",
+  "show": {
+    "docs_subdir": "ksb",
+    "site_base": "https://rogineh.github.io/morning-brief-podcast/ksb",
+    "channel_title": "Morning Brief — Australia Edition",
+    "channel_description": "A short daily news brief covering Australian national news, Queensland, and the Gold Coast — made to listen to on the morning drive."
+  }
+}
