@@ -1,0 +1,11 @@
+{
+  "date": "2026-09-28",
+  "title": "Morning Brief — Monday, 28 September 2026",
+  "description": "Today's stories: the fallout from Saturday's AFL Grand Final and the Socceroos' thrilling draw with Brazil in Townsville, emergency dredging to save Queensland's Moore Park Beach, and Southport's marine rescue crew beginning a new chapter as part of Marine Rescue Queensland. 오늘의 브리핑은 영어에 이어 한국어로도 제공됩니다.",
+  "show": {
+    "docs_subdir": "ksb",
+    "site_base": "https://rogineh.github.io/morning-brief-podcast/ksb",
+    "channel_title": "Morning Brief — Australia Edition",
+    "channel_description": "A short daily news brief covering Australian national news, Queensland, and the Gold Coast — made to listen to on the morning drive."
+  }
+}
