@@ -1,0 +1,11 @@
+{
+  "date": "2026-09-30",
+  "title": "Morning Brief — Wednesday, 30 September 2026",
+  "description": "Today's stories: major NDIS funding changes taking effect tomorrow, a police appeal after a spate of attempted break-ins in Brisbane's Everton Park, and the Gold Coast's newest Junior Mayor and Junior Deputy Mayor. 오늘의 브리핑은 영어에 이어 한국어로도 제공됩니다.",
+  "show": {
+    "docs_subdir": "ksb",
+    "site_base": "https://rogineh.github.io/morning-brief-podcast/ksb",
+    "channel_title": "Morning Brief — Australia Edition",
+    "channel_description": "A short daily news brief covering Australian national news, Queensland, and the Gold Coast — made to listen to on the morning drive."
+  }
+}
