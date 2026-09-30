@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-01",
+  "title": "Morning Brief — Thursday, 1 October 2026",
+  "description": "Today's stories: the big four banks passing on this week's RBA rate hike in full, excitement building ahead of the Rugby League World Cup's Queensland matches, and new figures confirming the Gold Coast's economy has grown to more than $55 billion. 오늘의 브리핑은 영어에 이어 한국어로도 제공됩니다.",
+  "show": {
+    "docs_subdir": "ksb",
+    "site_base": "https://rogineh.github.io/morning-brief-podcast/ksb",
+    "channel_title": "Morning Brief — Australia Edition",
+    "channel_description": "A short daily news brief covering Australian national news, Queensland, and the Gold Coast — made to listen to on the morning drive."
+  }
+}
