@@ -1,0 +1,11 @@
+{
+  "date": "2026-09-30",
+  "title": "Daily Brief — Afternoon Edition — Wednesday, 30 September 2026",
+  "description": "Today's stories: OpenAI's Dots agent unveiled at DevDay alongside Nvidia's new Open Agent Safety Platform, David Shoebridge elected as the Greens' new federal leader, a missing Whitsundays boy found safe, and the Gold Coast's record 14.7 million annual visitors plus a major conference win for 2028. 오늘의 브리핑은 영어에 이어 한국어로도 제공됩니다.",
+  "show": {
+    "docs_subdir": "afternoon",
+    "site_base": "https://rogineh.github.io/morning-brief-podcast/afternoon",
+    "channel_title": "Daily Brief — Afternoon Edition",
+    "channel_description": "A short daily news brief covering technology and AI, Australian national news, Queensland, and the Gold Coast — made for your afternoon drive."
+  }
+}
