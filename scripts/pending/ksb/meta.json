@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-04",
+  "title": "Morning Brief — Sunday, 4 October 2026",
+  "description": "Today's stories: Quit's warning that illegal tobacco ads are slipping through the cracks on social media, the final day of Cairns' Ski and Wakeboard World Stage Weekend, and the Shaw and Partners World Ocean Series wrapping up at Burleigh Heads Beach. 오늘의 브리핑은 영어에 이어 한국어로도 제공됩니다.",
+  "show": {
+    "docs_subdir": "ksb",
+    "site_base": "https://rogineh.github.io/morning-brief-podcast/ksb",
+    "channel_title": "Morning Brief — Australia Edition",
+    "channel_description": "A short daily news brief covering Australian national news, Queensland, and the Gold Coast — made to listen to on the morning drive."
+  }
+}
