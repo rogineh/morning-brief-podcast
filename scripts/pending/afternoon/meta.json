@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-03",
+  "title": "Daily Brief — Afternoon Edition — Saturday, 3 October 2026",
+  "description": "Today's stories: six AI CEOs signing a voluntary safety accord with President Trump, an escalating Victorian flood watch now covering most of the state, a sport-packed King's Birthday long weekend across Queensland, and the Gold Coast's theme parks and beaches bracing for long-weekend crowds. 오늘의 브리핑은 영어에 이어 한국어로도 제공됩니다.",
+  "show": {
+    "docs_subdir": "afternoon",
+    "site_base": "https://rogineh.github.io/morning-brief-podcast/afternoon",
+    "channel_title": "Daily Brief — Afternoon Edition",
+    "channel_description": "A short daily news brief covering technology and AI, Australian national news, Queensland, and the Gold Coast — made for your afternoon drive."
+  }
+}
