@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-04",
+  "title": "Daily Brief — Afternoon Edition — Sunday, 4 October 2026",
+  "description": "Today's stories: OpenAI scrapping its GPT-6.1 Astra release over safety concerns and the FTC's new investigation into major AI developers, the Roosters' dominant NRLW grand final win ahead of tonight's NRL decider, building storm risk across south-east Queensland, and Gold Coast families making the most of the long weekend's final day. 오늘의 브리핑은 영어에 이어 한국어로도 제공됩니다.",
+  "show": {
+    "docs_subdir": "afternoon",
+    "site_base": "https://rogineh.github.io/morning-brief-podcast/afternoon",
+    "channel_title": "Daily Brief — Afternoon Edition",
+    "channel_description": "A short daily news brief covering technology and AI, Australian national news, Queensland, and the Gold Coast — made for your afternoon drive."
+  }
+}
