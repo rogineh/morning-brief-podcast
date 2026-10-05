@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-05",
+  "title": "Daily Brief — Afternoon Edition — Monday, 5 October 2026",
+  "description": "Today's stories: new warnings about AI agents being hijacked through prompt injection, Australia's Kangaroos squad named for next month's Rugby League World Cup, a police appeal to locate a missing Carina woman, and Scott Pendlebury's move from Collingwood to the Gold Coast Suns. 오늘의 브리핑은 영어에 이어 한국어로도 제공됩니다.",
+  "show": {
+    "docs_subdir": "afternoon",
+    "site_base": "https://rogineh.github.io/morning-brief-podcast/afternoon",
+    "channel_title": "Daily Brief — Afternoon Edition",
+    "channel_description": "A short daily news brief covering technology and AI, Australian national news, Queensland, and the Gold Coast — made for your afternoon drive."
+  }
+}
