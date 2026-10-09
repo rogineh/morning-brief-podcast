@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-09",
+  "title": "Daily Brief — Afternoon Edition — Friday, 9 October 2026",
+  "description": "China's AI compute capacity closing in on the US and CSIRO's new biosecurity partnership with Moderna, an NT regulator's concerns over a remote hyperscale data centre and tonight's first Australia-South Africa cricket Test in Durban, Queensland's rising blue card refusals and a looming gillnet ban threatening seafood shops, plus the Gold Coast's wrapping dredging program. 한국어로도 브리핑을 전해드립니다.",
+  "show": {
+    "docs_subdir": "afternoon",
+    "site_base": "https://rogineh.github.io/morning-brief-podcast/afternoon",
+    "channel_title": "Daily Brief — Afternoon Edition",
+    "channel_description": "A short daily news brief covering technology and AI, Australian national news, Queensland, and the Gold Coast — made for your afternoon drive."
+  }
+}
