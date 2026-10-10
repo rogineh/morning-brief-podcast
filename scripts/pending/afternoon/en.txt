@@ -1,0 +1,23 @@
+Good afternoon, and welcome to your Daily Brief for Saturday, the 10th of October, 2026. Here's what you need to know this afternoon, starting with technology and AI.
+
+Meta and customer service AI company Sierra have announced a new industry standard called the Personal Agent Protocol, designed to give businesses a clearer way of telling whether a human or an AI agent is interacting with their website, and controlling what that agent can actually see and do once it's there. Walmart, Stripe, Shopify, and several other companies have signed on as early partners, with a full technical specification expected to follow later this month. The protocol is built on existing login standards, allowing an agent to browse a site as a guest before requesting read or write access once a user authorises it, and organisers say future versions will eventually extend the system to cover payments and notifications as well.
+
+Separately, SoftBank founder Masayoshi Son is reportedly seeking as much as one hundred billion dollars in backing from Gulf investors for a new fund aimed at buying up and automating companies using AI and robotics. The scale of the proposed fund underscores just how much capital is now chasing opportunities to apply artificial intelligence directly to physical industries, rather than purely digital ones, as investors look for the next big wave of AI-driven returns beyond chatbots and software tools.
+
+Turning now to news from across Australia.
+
+The Wallabies are chasing history tonight as they take on the All Blacks in the Bledisloe Cup at Eden Park, a venue where Australia hasn't beaten New Zealand in forty years. The Wallabies have dropped their last eleven Tests against their trans-Tasman rivals, and while nobody's writing off New Zealand's dominance just yet, there's cautious optimism in the Australian camp that this squad has the attacking firepower to finally break the drought if they can get the basics right in the forward pack.
+
+Elsewhere, two people have survived after a light aircraft came down in a field, walking away from the crash with what authorities describe as non-life-threatening injuries. Investigators are working to establish what caused the aircraft to go down, and aviation safety officials say a full examination of the wreckage will be needed before any findings can be confirmed.
+
+Now, the news from here in Queensland.
+
+New WorkCover figures show the number of accepted mental injury claims in Queensland workplaces has more than doubled since the 2021-22 financial year, with just over four thousand claims accepted in the most recent reporting period. Workplace health experts say the rise likely reflects a combination of genuinely increasing psychological strain in some industries and growing awareness among workers that mental injuries, just like physical ones, can be compensable, encouraging more people to come forward. Unions are calling for greater investment in preventative mental health programs in high-risk workplaces, rather than waiting until staff reach crisis point before support becomes available.
+
+Meanwhile, the Bureau of Meteorology says the state's far north can expect wetter and cooler conditions than usual to continue through spring, a contrast to the warmer, drier outlook forecast for much of the rest of Queensland in the lead-up to summer. Forecasters say the pattern reflects broader climate drivers currently at play across the Pacific, and they're encouraging residents in both regions to stay across the latest seasonal updates as conditions continue to diverge across the state.
+
+And finally, here's what's happening on the Gold Coast.
+
+Construction has begun on a new ten million dollar marine wildlife hospital on the Southport Broadwater, described as the first facility of its kind in the Southern Hemisphere. Once complete, the hospital will treat injured dolphins, whales, dugongs, turtles, sharks, and seabirds, with specialist equipment designed to handle larger marine mammals and dedicated docks for rescue vessels bringing in sick or injured animals. The facility, which sits just outside the existing Sea World theme park boundary, will also offer public viewing areas so visitors can watch rehabilitation work in progress, and organisers say they're hoping it becomes a drawcard for marine conservation awareness as much as a working animal hospital once it opens its doors.
+
+That's your Daily Brief for this afternoon. Thanks for listening, and we'll be back again tomorrow. And now, the same brief in Korean.
