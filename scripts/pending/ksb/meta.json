@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-13",
+  "title": "Morning Brief — Tuesday, 13 October 2026",
+  "description": "The Reserve Bank holds the cash rate steady at 4.35%, Queensland locks in builders for the new Toowoomba Hospital's mental health and acute beds, and the Gold Coast gets a contractor for the new Coomera Hospital as plans to extend the light rail south are officially shelved. 한국어 방송도 이어집니다.",
+  "show": {
+    "docs_subdir": "ksb",
+    "site_base": "https://rogineh.github.io/morning-brief-podcast/ksb",
+    "channel_title": "Morning Brief — Australia Edition",
+    "channel_description": "A short daily news brief covering Australian national news, Queensland, and the Gold Coast — made to listen to on the morning drive."
+  }
+}
