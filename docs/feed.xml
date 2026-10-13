@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/</link>
     </image>
     <item>
+      <title>Daily Brief — Morning Edition — Wednesday, 14 October 2026</title>
+      <description>OpenAI and Anthropic reportedly move ahead with stock market listing plans as Anthropic details blocked attempts to misuse its Claude models, the NDIS reform rollout enters a new staged phase, Queensland names its first new schools and starts work on a $98M Sunshine Coast primary school, and the Gold Coast unveils new bus routes and a 20-year transport plan. 한국어로도 브리핑을 전해드립니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-14.mp3" type="audio/mpeg" length="5199165" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-14.mp3</guid>
+      <pubDate>Wed, 14 Oct 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Daily Brief — Morning Edition — Monday, 12 October 2026</title>
       <description>Mistral's biggest open-weight model and a $48 billion funding surge for physical AI startups, new accountability details on the Medicare data breach and claims of 'Santos-sized loopholes' in the gas reservation scheme, a Capricorn Coast algae bloom and Powderfinger's reunion tour, plus preparations ramping up for the Gold Coast 500. 한국어로도 브리핑을 전해드립니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-12.mp3" type="audio/mpeg" length="5430597" />
@@ -210,20 +217,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-15.mp3" type="audio/mpeg" length="4991637" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-15.mp3</guid>
       <pubDate>Tue, 15 Sep 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Daily Brief — Morning Edition — Monday, 14 September 2026</title>
-      <description>Today: a new AI chip codenamed Asimov targets 16-trillion-parameter models; a two-decade-old Australian cold case theory crumbles after a murder charge; Queensland households get an electricity price cut; and a Gold Coast fish sculpture grows way bigger than planned. Broadcast in English, followed by a full Korean-language version (오늘의 브리핑 영어 방송 후 한국어 전체 브리핑이 이어집니다).</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-14.mp3" type="audio/mpeg" length="4227813" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-14.mp3</guid>
-      <pubDate>Mon, 14 Sep 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Daily Brief — Morning Edition — Sunday, 13 September 2026</title>
-      <description>Today: a major AI-agent attack campaign compromises 440+ PaperCut servers worldwide while sandbox flaws surface in leading AI coding tools; Australia weighs new gambling-ad reforms and a coastal flood-risk study; Queensland lands the Wallaroos and Rugby Sevens; and the Gold Coast's Coolangatta light rail extension is reportedly scrapped amid rapid population growth. Broadcast in English, followed by a full Korean-language version (오늘의 브리핑 영어 방송 후 한국어 전체 브리핑이 이어집니다).</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-13.mp3" type="audio/mpeg" length="4664109" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-13.mp3</guid>
-      <pubDate>Sun, 13 Sep 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>

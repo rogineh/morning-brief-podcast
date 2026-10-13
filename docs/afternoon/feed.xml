@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/afternoon/</link>
     </image>
     <item>
+      <title>Daily Brief — Afternoon Edition — Tuesday, 13 October 2026</title>
+      <description>OpenAI's model family rolls out via Amazon Bedrock and Google DeepMind's next flagship nears release amid renewed AI oversight calls, the ASX trades near record highs, Queensland's Breach Bail, Go to Jail bill draws continued debate, and the Gold Coast's Dreamworld precinct masterplan is approved. 한국어로도 브리핑을 전해드립니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-13.mp3" type="audio/mpeg" length="4689045" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-13.mp3</guid>
+      <pubDate>Tue, 13 Oct 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Daily Brief — Afternoon Edition — Sunday, 11 October 2026</title>
       <description>Satya Nadella's call for an AI 'emergency brake' and Qualcomm's vision for phones running huge AI models, a dramatic last-lap Bathurst 1000 win and the ATO's delayed credit card ban, Queensland's Sheffield Shield loss and Brisbane's Pride march, plus the Gold Coast Suns' breakthrough AFLW win over Melbourne. 한국어로도 브리핑을 전해드립니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-11.mp3" type="audio/mpeg" length="4404405" />
@@ -203,20 +210,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-09-15.mp3" type="audio/mpeg" length="4093005" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-09-15.mp3</guid>
       <pubDate>Tue, 15 Sep 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Daily Brief — Afternoon Edition — Monday, 14 September 2026</title>
-      <description>Today: Anthropic forecasts a profitable quarter as Fable 5.1 tops a new Real-SWE benchmark; two AI safety researchers depart Anthropic and Google DeepMind for METR; Australia's only nuclear reactor marks 20 years; Brisbane's parking-fine haul nears $35 million; and Gold Coast's Spit gets its first residential development plan. Broadcast in English, followed by a full Korean-language version (오늘의 브리핑 영어 방송 후 한국어 전체 브리핑이 이어집니다).</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-09-14.mp3" type="audio/mpeg" length="3185493" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-09-14.mp3</guid>
-      <pubDate>Mon, 14 Sep 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Daily Brief — Afternoon Edition — Sunday, 13 September 2026</title>
-      <description>Today: OpenAI launches its GPT-Live voice model and a new cross-industry AI-agent trust framework debuts; Australia's Parliament tackles superannuation and NDIS reform; Queensland investigates coalmine contraband and a new bee mite detection; and a 1995 Gold Coast cold case reopens. Broadcast in English, followed by a full Korean-language version (오늘의 브리핑 영어 방송 후 한국어 전체 브리핑이 이어집니다).</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-09-13.mp3" type="audio/mpeg" length="4072365" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-09-13.mp3</guid>
-      <pubDate>Sun, 13 Sep 2026 22:24:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
