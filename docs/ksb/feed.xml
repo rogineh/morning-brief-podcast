@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/ksb/</link>
     </image>
     <item>
+      <title>Morning Brief — Thursday, 15 October 2026</title>
+      <description>Real wages fall for a third straight quarter despite July's minimum wage rise, Queensland's largest solar and battery project near Townsville targets 2028 operation, and Gold Coast employers keep struggling to fill roles even as job ad volumes ease. 한국어 방송도 이어집니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-15.mp3" type="audio/mpeg" length="3885837" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-15.mp3</guid>
+      <pubDate>Thu, 15 Oct 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Morning Brief — Wednesday, 14 October 2026</title>
       <description>National house prices keep climbing even as Sydney and Melbourne growth slows, Queensland tenders the next stage of the billion-dollar Cairns Hospital expansion, and the Gold Coast's tourism economy posts near-record domestic visitor numbers ahead of 2032. 한국어 방송도 이어집니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-14.mp3" type="audio/mpeg" length="3944469" />
@@ -217,13 +224,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-09-16.mp3" type="audio/mpeg" length="3513405" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-09-16.mp3</guid>
       <pubDate>Wed, 16 Sep 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Morning Brief — Tuesday, 15 September 2026</title>
-      <description>Today: political leaders condemn Pauline Hanson's resurfaced Indigenous comments and the Sydney Roosters cap a record NRLW season; a destructive bee mite reaches its northernmost detection in Far North Queensland and a coronial inquest hears from a missing woman's daughter; and a Gold Coast gang-recruitment crackdown nets fifteen charges as the city trials a pedestrian-only Surfers Paradise esplanade. Broadcast in English, followed by a full Korean-language version (오늘의 브리핑 영어 방송 후 한국어 전체 브리핑이 이어집니다).</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-09-15.mp3" type="audio/mpeg" length="3380205" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-09-15.mp3</guid>
-      <pubDate>Tue, 15 Sep 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
