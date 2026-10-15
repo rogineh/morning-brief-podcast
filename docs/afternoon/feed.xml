@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/afternoon/</link>
     </image>
     <item>
+      <title>Daily Brief — Afternoon Edition — Thursday, 15 October 2026</title>
+      <description>Apple reportedly turns to Google's Gemini to power Siri as Meta trims its Reality Labs division while AI spending surges, Australia's hospital funding boost continues to flow amid ongoing Commonwealth-state negotiations, Queensland firms up its 2032 Olympic venue plan, and the Gold Coast unlocks land for nearly 19,000 new homes. 한국어로도 브리핑을 전해드립니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-15.mp3" type="audio/mpeg" length="4818285" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-15.mp3</guid>
+      <pubDate>Thu, 15 Oct 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Daily Brief — Afternoon Edition — Wednesday, 14 October 2026</title>
       <description>Humanoid robotics funding and manufacturing deals accelerate as Hyundai and Boston Dynamics prepare to deploy Atlas on car assembly lines, Aldi again tops supermarket price comparisons, Queensland presses ahead with a $545M dam capacity plan and a bulk water price freeze, and a $2B Broadbeach twin-tower project is unveiled. 한국어로도 브리핑을 전해드립니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-14.mp3" type="audio/mpeg" length="4119693" />
@@ -210,13 +217,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-09-16.mp3" type="audio/mpeg" length="4559877" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-09-16.mp3</guid>
       <pubDate>Wed, 16 Sep 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Daily Brief — Afternoon Edition — Tuesday, 15 September 2026</title>
-      <description>Today: Microsoft publishes a new AI Code of Conduct as tech-industry layoffs pass 210,000 for the year; Canberra presses ahead with a private health rebate cut for over-65s and Pauline Hanson offers a qualified apology; Queensland searches for a missing Biloela girl while the town's hospital regains birthing services; and the Gold Coast's Marine Quarter breaks ground as Suns forward Ben King eyes free agency. Broadcast in English, followed by a full Korean-language version (오늘의 브리핑 영어 방송 후 한국어 전체 브리핑이 이어집니다).</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-09-15.mp3" type="audio/mpeg" length="4093005" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-09-15.mp3</guid>
-      <pubDate>Tue, 15 Sep 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
