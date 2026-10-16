@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/ksb/</link>
     </image>
     <item>
+      <title>Morning Brief — Saturday, 17 October 2026</title>
+      <description>The Bell Bay Aluminium smelter's future is secured through 2031 with a $200M support package and new power deal, Queensland's Cross River Rail reaches a visible construction milestone at Albert Street station, and the Gold Coast opens the first stage of its Greenheart Robina Parklands. 한국어 방송도 이어집니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-17.mp3" type="audio/mpeg" length="3634821" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-17.mp3</guid>
+      <pubDate>Sat, 17 Oct 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Morning Brief — Friday, 16 October 2026</title>
       <description>Regional airline Rex secures its future under new ownership with federal financing support, Queensland crime victim numbers fall nearly 10% over two years, and Gold Coast Airport pushes for new direct international routes after a strong year of growth. 한국어 방송도 이어집니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-16.mp3" type="audio/mpeg" length="3653397" />
@@ -217,13 +224,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-09-18.mp3" type="audio/mpeg" length="3136077" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-09-18.mp3</guid>
       <pubDate>Fri, 18 Sep 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Morning Brief — Thursday, 17 September 2026</title>
-      <description>Today: oil prices spike on a Saudi supply disruption and a century-old murder hotel hits the market in WA; a Brisbane BMX rider's Scientology speedrun stunt lands him in court alongside a serious pedestrian assault case; and a revamped Gold Coast bus network rolls out as part of a $543m transport investment. Broadcast in English, followed by a full Korean-language version (오늘의 브리핑 영어 방송 후 한국어 전체 브리핑이 이어집니다).</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-09-17.mp3" type="audio/mpeg" length="3166461" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-09-17.mp3</guid>
-      <pubDate>Thu, 17 Sep 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
