@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/</link>
     </image>
     <item>
+      <title>Daily Brief — Morning Edition — Saturday, 17 October 2026</title>
+      <description>Waymo passes 100,000 paid robotaxi rides a week as Microsoft reports a major quantum error-correction breakthrough, more Australians than ever are moving from cities to regional areas, Queensland's bushfire season arrives early in the south east, and a $3 billion Gold Coast integrated resort moves into community consultation. 한국어로도 브리핑을 전해드립니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-17.mp3" type="audio/mpeg" length="5472141" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-17.mp3</guid>
+      <pubDate>Sat, 17 Oct 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Daily Brief — Morning Edition — Friday, 16 October 2026</title>
       <description>Anthropic details its model's sustained multi-hour task performance and proposes a testing and audit framework for major releases as OpenAI says its latest model now helps build its successors, Australia's floods-and-fires swings strain council budgets and insurance premiums, Queensland's international tourism spending breaks records, and a major sewage spill near Yatala prompts a state investigation. 한국어로도 브리핑을 전해드립니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-16.mp3" type="audio/mpeg" length="5698821" />
@@ -210,13 +217,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-18.mp3" type="audio/mpeg" length="4692357" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-18.mp3</guid>
       <pubDate>Fri, 18 Sep 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Daily Brief — Morning Edition — Thursday, 17 September 2026</title>
-      <description>Today: Google, Anthropic and OpenAI jointly unveil cyber AI safeguards as OpenAI pilots ad-supported Sponsored Agents; Tony Burke unveils Labor's migration overhaul as backpacker numbers hit a record high; a Mary Valley dairy family gets an 80-year lifeline; and Gold Coast Mayor Tom Tate doubles down on his disputed Mar-a-Lago dinner claim. Broadcast in English, followed by a full Korean-language version (오늘의 브리핑 영어 방송 후 한국어 전체 브리핑이 이어집니다).</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-17.mp3" type="audio/mpeg" length="4624221" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-17.mp3</guid>
-      <pubDate>Thu, 17 Sep 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
