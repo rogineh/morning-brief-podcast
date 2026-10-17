@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-18",
+  "title": "Morning Brief — Sunday, 18 October 2026",
+  "description": "Australia's superannuation system hits a record $4.4 trillion as payday super and the 12% guarantee rate take effect, Queensland commits $66M to Gympie's water infrastructure to unlock new homes, and the Gold Coast's long-planned Ritz-Carlton at Mariner's Cove progresses. 한국어 방송도 이어집니다.",
+  "show": {
+    "docs_subdir": "ksb",
+    "site_base": "https://rogineh.github.io/morning-brief-podcast/ksb",
+    "channel_title": "Morning Brief — Australia Edition",
+    "channel_description": "A short daily news brief covering Australian national news, Queensland, and the Gold Coast — made to listen to on the morning drive."
+  }
+}
