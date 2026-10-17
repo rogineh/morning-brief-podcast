@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/afternoon/</link>
     </image>
     <item>
+      <title>Daily Brief — Afternoon Edition — Saturday, 17 October 2026</title>
+      <description>Cloud computing giants post strong AI-driven growth as Google begins selling custom AI chips externally, Medicare Urgent Care Clinics move toward permanent funding, Queensland upgrades a key Warrego Highway bridge near Toowoomba, and the Groundwater Country Music Festival draws crowds to Broadbeach. 한국어로도 브리핑을 전해드립니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-17.mp3" type="audio/mpeg" length="4901997" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-17.mp3</guid>
+      <pubDate>Sat, 17 Oct 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Daily Brief — Afternoon Edition — Friday, 16 October 2026</title>
       <description>The US-China AI chip tug of war flares up again as both sides weigh new export restrictions, Australia's follow-up social media ban legislation reaches a Senate committee, Queensland opens a new resource exploration round, and the Gold Coast's Burleigh Pavilion nears its December opening. 한국어로도 브리핑을 전해드립니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-16.mp3" type="audio/mpeg" length="4955661" />
@@ -210,13 +217,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-09-18.mp3" type="audio/mpeg" length="3905133" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-09-18.mp3</guid>
       <pubDate>Fri, 18 Sep 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Daily Brief — Afternoon Edition — Thursday, 17 September 2026</title>
-      <description>Today: OpenAI launches its full-duplex GPT-Live-1 voice model as open-source Qwen 3.8 closes in on Claude Opus 4.6; Tony Burke delivers his migration overhaul speech as markets price in an RBA rate rise; Queensland passes its Circuit Breaker Sentencing bill and charges a man with 36 property offences; and the Gold Coast Suns manage their off-season list amid Ben King's expected departure. Broadcast in English, followed by a full Korean-language version (오늘의 브리핑 영어 방송 후 한국어 전체 브리핑이 이어집니다).</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-09-17.mp3" type="audio/mpeg" length="4038573" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-09-17.mp3</guid>
-      <pubDate>Thu, 17 Sep 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
