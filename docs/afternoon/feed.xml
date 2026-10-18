@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/afternoon/</link>
     </image>
     <item>
+      <title>Daily Brief — Afternoon Edition — Sunday, 18 October 2026</title>
+      <description>Global AI regulation diverges as the US favours self-policing while California and the EU push oversight, Australia marks Mental Health Month with record funding commitments, Queensland's new Port of Townsville cargo facility eases freight pressure, and Dreamworld confirms its new Lost Mine Mayhem ride. 한국어로도 브리핑을 전해드립니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-18.mp3" type="audio/mpeg" length="4319157" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-18.mp3</guid>
+      <pubDate>Sun, 18 Oct 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Daily Brief — Afternoon Edition — Saturday, 17 October 2026</title>
       <description>Cloud computing giants post strong AI-driven growth as Google begins selling custom AI chips externally, Medicare Urgent Care Clinics move toward permanent funding, Queensland upgrades a key Warrego Highway bridge near Toowoomba, and the Groundwater Country Music Festival draws crowds to Broadbeach. 한국어로도 브리핑을 전해드립니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-17.mp3" type="audio/mpeg" length="4901997" />
@@ -210,13 +217,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-09-19.mp3" type="audio/mpeg" length="3934101" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-09-19.mp3</guid>
       <pubDate>Sat, 19 Sep 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Daily Brief — Afternoon Edition — Friday, 18 September 2026</title>
-      <description>Today: Canada and Germany back Yoshua Bengio's LawZero with $300m for safer AI as TechCrunch Disrupt 2026 nears; Albanese heads to the UN with a digital safety push while the Greens question the government's deportation plans; Queensland police search for an armed man near Greenvale and charge a teen with extremist offences; and a new report finds barely 1% of Gold Coast hotel rooms are accessible ahead of the 2032 Olympics. Broadcast in English, followed by a full Korean-language version (오늘의 브리핑 영어 방송 후 한국어 전체 브리핑이 이어집니다).</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-09-18.mp3" type="audio/mpeg" length="3905133" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-09-18.mp3</guid>
-      <pubDate>Fri, 18 Sep 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
