@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-19",
+  "title": "Morning Brief — Monday, 19 October 2026",
+  "description": "Australian agricultural exports hit a record $81.4 billion with China as the dominant market, Queensland's budget allocates $247M for 25,000 extra elective surgeries, and the Gold Coast's unemployment rate sits at a low 3.1% amid strong business formation. 한국어 방송도 이어집니다.",
+  "show": {
+    "docs_subdir": "ksb",
+    "site_base": "https://rogineh.github.io/morning-brief-podcast/ksb",
+    "channel_title": "Morning Brief — Australia Edition",
+    "channel_description": "A short daily news brief covering Australian national news, Queensland, and the Gold Coast — made to listen to on the morning drive."
+  }
+}
