@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/</link>
     </image>
     <item>
+      <title>Daily Brief — Morning Edition — Monday, 19 October 2026</title>
+      <description>Google launches its first Project Suncatcher satellite to test space-based AI computing, Australia backs seven new large-scale batteries with $176M in grid funding, Queensland's Ipswich and Logan budget commitments continue rolling out, and the Gold Coast's Pacific Motorway widening progresses toward Tugun. 한국어로도 브리핑을 전해드립니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-19.mp3" type="audio/mpeg" length="5122869" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-19.mp3</guid>
+      <pubDate>Mon, 19 Oct 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Daily Brief — Morning Edition — Sunday, 18 October 2026</title>
       <description>Fresh AI capital keeps flowing as Microsoft and Nvidia roll out new specialised systems, Australia's dry spring breaks with a major rain system forecast across the eastern states, Cairns secures hundreds of millions in state and federal funding, and the Gold Coast's first dedicated surf park at Parkwood moves toward construction. 한국어로도 브리핑을 전해드립니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-18.mp3" type="audio/mpeg" length="5377005" />
@@ -210,13 +217,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-20.mp3" type="audio/mpeg" length="4287789" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-20.mp3</guid>
       <pubDate>Sun, 20 Sep 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Daily Brief — Morning Edition — Saturday, 19 September 2026</title>
-      <description>Today: OpenAI discloses six new AI safety incidents as ByteDance's Zhang Yiming becomes Asia's richest person; Central Australian rangers are recognised by Prince William as fuel prices climb amid the Iran war; Rockhampton's crocodile-inhabited Fitzroy River is cleared to host 2032 Olympic rowing; and the Gold Coast sees fresh boiler room fraud charges as a 23-day rail closure begins. Broadcast in English, followed by a full Korean-language version (오늘의 브리핑 영어 방송 후 한국어 전체 브리핑이 이어집니다).</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-19.mp3" type="audio/mpeg" length="4587525" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-19.mp3</guid>
-      <pubDate>Sat, 19 Sep 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
