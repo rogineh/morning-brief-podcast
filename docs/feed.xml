@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/</link>
     </image>
     <item>
+      <title>Daily Brief — Morning Edition — Tuesday, 20 October 2026</title>
+      <description>Google's open Gemma 4 model contrasts with Microsoft's tightly controlled Azure-only models, Australia's housing auction clearance rates slide sharply ahead of November's RBA decision, a $2 billion deal unlocks infrastructure for 51,000 new Queensland homes, and a $580 million Broadbeach tower wins approval on the Gold Coast. 한국어로도 브리핑을 전해드립니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-20.mp3" type="audio/mpeg" length="5170077" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-20.mp3</guid>
+      <pubDate>Tue, 20 Oct 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Daily Brief — Morning Edition — Monday, 19 October 2026</title>
       <description>Google launches its first Project Suncatcher satellite to test space-based AI computing, Australia backs seven new large-scale batteries with $176M in grid funding, Queensland's Ipswich and Logan budget commitments continue rolling out, and the Gold Coast's Pacific Motorway widening progresses toward Tugun. 한국어로도 브리핑을 전해드립니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-19.mp3" type="audio/mpeg" length="5122869" />
@@ -210,13 +217,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-21.mp3" type="audio/mpeg" length="5506413" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-21.mp3</guid>
       <pubDate>Mon, 21 Sep 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Daily Brief — Morning Edition — Sunday, 20 September 2026</title>
-      <description>Today: Google rolls out Home MCP for AI assistants as NVIDIA confirms its local-AI RTX Spark PCs; Canberra's Wright suburb demands a police station as Australia's first Indigenous eye surgeon is profiled; a Rockhampton bushfire is brought under control and Queensland's mining objection laws draw criticism; and the Gold Coast's runaway Tasmanian devil Mary returns to her enclosure. Broadcast in English, followed by a full Korean-language version (오늘의 브리핑 영어 방송 후 한국어 전체 브리핑이 이어집니다).</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-20.mp3" type="audio/mpeg" length="4287789" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-20.mp3</guid>
-      <pubDate>Sun, 20 Sep 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
