@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/</link>
     </image>
     <item>
+      <title>Daily Brief — Morning Edition — Wednesday, 21 October 2026</title>
+      <description>CoreWeave becomes a flashpoint in investor unease over AI infrastructure debt, NAB announces plans to cut 2,500 jobs amid weak productivity, James Cook University establishes a new climate adaptation and disaster resilience centre, and calls grow for a Gold Coast heavy rail extension to the airport. 한국어로도 브리핑을 전해드립니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-21.mp3" type="audio/mpeg" length="5451405" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-21.mp3</guid>
+      <pubDate>Wed, 21 Oct 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Daily Brief — Morning Edition — Tuesday, 20 October 2026</title>
       <description>Google's open Gemma 4 model contrasts with Microsoft's tightly controlled Azure-only models, Australia's housing auction clearance rates slide sharply ahead of November's RBA decision, a $2 billion deal unlocks infrastructure for 51,000 new Queensland homes, and a $580 million Broadbeach tower wins approval on the Gold Coast. 한국어로도 브리핑을 전해드립니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-20.mp3" type="audio/mpeg" length="5170077" />
@@ -210,13 +217,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-22.mp3" type="audio/mpeg" length="5216445" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-22.mp3</guid>
       <pubDate>Tue, 22 Sep 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Daily Brief — Morning Edition — Monday, 21 September 2026</title>
-      <description>Today: Trump announces a new 'AI Force' and AI czar as Alibaba's Qwen ships a new omnimodal model and a Beijing AI startup passes a billion-dollar valuation; Albanese launches Australia's UN Security Council campaign built around cyber safety; Queensland's Taskforce Yankee Tread charges 81 people over 265 dangerous-driving offences; and the Gold Coast approves a $1.5 million illegal camping crackdown. Broadcast in English, followed by a full Korean-language version (오늘의 브리핑 영어 방송 후 한국어 전체 브리핑이 이어집니다).</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-21.mp3" type="audio/mpeg" length="5506413" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-21.mp3</guid>
-      <pubDate>Mon, 21 Sep 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
