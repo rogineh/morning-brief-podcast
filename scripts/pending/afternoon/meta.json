@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-20",
+  "title": "Afternoon Edition — Tuesday, 20 October 2026",
+  "description": "AI chip startup Tenstorrent doubles its valuation in a $1.5 billion raise, the RBA's cash rate hits 4.60% as national home prices slide, Queensland commits $417 million to early Brisbane 2032 Olympic venue works, and the Gold Coast Suns climb into the AFLW top four on a five-game winning streak. 한국어로도 브리핑을 전해드립니다.",
+  "show": {
+    "docs_subdir": "afternoon",
+    "site_base": "https://rogineh.github.io/morning-brief-podcast/afternoon",
+    "channel_title": "Daily Brief — Afternoon Edition",
+    "channel_description": "A short afternoon news brief covering technology and AI, Australian national news, Queensland, and the Gold Coast."
+  }
+}
