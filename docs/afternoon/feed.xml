@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/afternoon/</link>
     </image>
     <item>
+      <title>Afternoon Edition — Tuesday, 20 October 2026</title>
+      <description>AI chip startup Tenstorrent doubles its valuation in a $1.5 billion raise, the RBA's cash rate hits 4.60% as national home prices slide, Queensland commits $417 million to early Brisbane 2032 Olympic venue works, and the Gold Coast Suns climb into the AFLW top four on a five-game winning streak. 한국어로도 브리핑을 전해드립니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-20.mp3" type="audio/mpeg" length="4357029" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-20.mp3</guid>
+      <pubDate>Tue, 20 Oct 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Daily Brief — Afternoon Edition — Monday, 19 October 2026</title>
       <description>AI chip startups challenging Nvidia secure fresh funding from Arm, Qatar and SoftBank, Australia becomes the first country outside the US to operate the AIM-260 missile, Queensland's new Governor Thomas Bradley is appointed, and the Gold Coast hands down its $2.7B budget with a trimmed rate rise. 한국어로도 브리핑을 전해드립니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-19.mp3" type="audio/mpeg" length="4020093" />
@@ -210,13 +217,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-09-21.mp3" type="audio/mpeg" length="4769493" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-09-21.mp3</guid>
       <pubDate>Mon, 21 Sep 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Daily Brief — Afternoon Edition — Sunday, 20 September 2026</title>
-      <description>Today: OpenAI, Anthropic, and Google DeepMind hold quiet AI-safety-standards talks as Google unveils its Gemini Cyber model; Albanese meets Tim Cook at Apple HQ ahead of his UN address; Brisbane switches on a new grid-scale battery under the QUEST Hub; and the Gold Coast Suns rout Essendon by 41 points in AFLW. Broadcast in English, followed by a full Korean-language version (오늘의 브리핑 영어 방송 후 한국어 전체 브리핑이 이어집니다).</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-09-20.mp3" type="audio/mpeg" length="4367685" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-09-20.mp3</guid>
-      <pubDate>Sun, 20 Sep 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
