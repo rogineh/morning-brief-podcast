@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/ksb/</link>
     </image>
     <item>
+      <title>Morning Brief — Wednesday, 21 October 2026</title>
+      <description>A new Human Rights Commission report finds pregnancy discrimination still widespread in Australian workplaces, Queensland's Adult Crime, Adult Time laws expand amid continued debate, and the Gold Coast 500 Supercars finals opener brings crowds to Surfers Paradise this weekend. 한국어 방송도 이어집니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-21.mp3" type="audio/mpeg" length="4012413" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-21.mp3</guid>
+      <pubDate>Wed, 21 Oct 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Morning Brief — Tuesday, 20 October 2026</title>
       <description>NDIS funding changes begin taking effect for social and community participation supports, Queensland's health department moves to act on a first-of-its-kind clinician wellbeing survey, and the Gold Coast plans a light rail spur linking the university hospital to Biggera Waters. 한국어 방송도 이어집니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-20.mp3" type="audio/mpeg" length="3811389" />
@@ -217,13 +224,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-09-22.mp3" type="audio/mpeg" length="3735909" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-09-22.mp3</guid>
       <pubDate>Tue, 22 Sep 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Morning Brief — Monday, 21 September 2026</title>
-      <description>Today: fuel prices climb again as Middle East disruption hits oil markets and Adelaide edges Brisbane in a fiery AFLW clash; Queensland police search for a missing Greenvale man as regional tourism and agriculture operators raise migration concerns; and the Gold Coast Suns rout Essendon while the city gears up for a busy spring events calendar. Broadcast in English, followed by a full Korean-language version (오늘의 브리핑 영어 방송 후 한국어 전체 브리핑이 이어집니다).</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-09-21.mp3" type="audio/mpeg" length="3643029" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-09-21.mp3</guid>
-      <pubDate>Mon, 21 Sep 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
