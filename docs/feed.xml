@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/</link>
     </image>
     <item>
+      <title>Daily Brief — Morning Edition — Thursday, 22 October 2026</title>
+      <description>Anthropic's draft IPO prospectus reveals explosive revenue growth alongside an $80.7 billion six-month loss, the RACGP welcomes an expansion of rural GP training places, Queensland commits $30 million to a second round of grassroots sport funding, and the Gold Coast steps up its e-bike compliance crackdown. 한국어로도 브리핑을 전해드립니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-22.mp3" type="audio/mpeg" length="5371245" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-22.mp3</guid>
+      <pubDate>Thu, 22 Oct 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Daily Brief — Morning Edition — Wednesday, 21 October 2026</title>
       <description>CoreWeave becomes a flashpoint in investor unease over AI infrastructure debt, NAB announces plans to cut 2,500 jobs amid weak productivity, James Cook University establishes a new climate adaptation and disaster resilience centre, and calls grow for a Gold Coast heavy rail extension to the airport. 한국어로도 브리핑을 전해드립니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-21.mp3" type="audio/mpeg" length="5451405" />
@@ -210,13 +217,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-23.mp3" type="audio/mpeg" length="5175261" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-23.mp3</guid>
       <pubDate>Wed, 23 Sep 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Daily Brief — Morning Edition — Tuesday, 22 September 2026</title>
-      <description>Today: a Plugin4Shell vulnerability hits Claude Code, Codex, Copilot and Gemini CLI as Claude now leads a quarter of Anthropic's own R&amp;D work; a landmark survey finds many Australians unsupported after a dementia diagnosis amid rising fuel prices; Queensland faces a broadscale bushfire risk as Gold Coast police dismantle a major drug trafficking network; and the Gold Coast's light rail Stage 3 extension settles into its first weeks of operation. Broadcast in English, followed by a full Korean-language version (오늘의 브리핑 영어 방송 후 한국어 전체 브리핑이 이어집니다).</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-22.mp3" type="audio/mpeg" length="5216445" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-22.mp3</guid>
-      <pubDate>Tue, 22 Sep 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
