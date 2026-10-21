@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/ksb/</link>
     </image>
     <item>
+      <title>Morning Brief — Thursday, 22 October 2026</title>
+      <description>Australia's new AusAlert emergency warning system reaches full operation ahead of storm season, a Brisbane childcare chain enters administration amid wider sector strain, and the Gold Coast nears the end of its 2026 beach sand replenishment program. 한국어 방송도 이어집니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-22.mp3" type="audio/mpeg" length="4328637" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-22.mp3</guid>
+      <pubDate>Thu, 22 Oct 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Morning Brief — Wednesday, 21 October 2026</title>
       <description>A new Human Rights Commission report finds pregnancy discrimination still widespread in Australian workplaces, Queensland's Adult Crime, Adult Time laws expand amid continued debate, and the Gold Coast 500 Supercars finals opener brings crowds to Surfers Paradise this weekend. 한국어 방송도 이어집니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-21.mp3" type="audio/mpeg" length="4012413" />
@@ -217,13 +224,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-09-23.mp3" type="audio/mpeg" length="3602781" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-09-23.mp3</guid>
       <pubDate>Wed, 23 Sep 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Morning Brief — Tuesday, 22 September 2026</title>
-      <description>Today: Australia posts 1.2 million new jobs over four years with unemployment at a 50-year low; Queensland Rail and seven unions settle a nine-month pay dispute with full services returning by November; and the Gold Coast confirms a $226 million investment in sport and community facilities. Broadcast in English, followed by a full Korean-language version (오늘의 브리핑 영어 방송 후 한국어 전체 브리핑이 이어집니다).</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-09-22.mp3" type="audio/mpeg" length="3735909" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-09-22.mp3</guid>
-      <pubDate>Tue, 22 Sep 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
