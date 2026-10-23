@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/</link>
     </image>
     <item>
+      <title>Daily Brief — Morning Edition — Saturday, 24 October 2026</title>
+      <description>OpenAI nears a $30 billion raise at a $1.25 trillion valuation ahead of a possible IPO, the UN warns Chevron over methane plumes at its Gorgon gas project, the Rugby League World Cup kicks off across Queensland venues, and the Gold Coast 500 draws huge crowds to Surfers Paradise. 한국어로도 브리핑을 전해드립니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-24.mp3" type="audio/mpeg" length="5016812" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-24.mp3</guid>
+      <pubDate>Sat, 24 Oct 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Daily Brief — Morning Edition — Friday, 23 October 2026</title>
       <description>Emergency patches go out for critical PHP flaws discovered with AI models, Australian government websites briefly go offline during the patching rush, Townsville beekeepers face a chemical-resistant Varroa mite strain, and the Gold Coast council weighs a long-running Coolangatta tower proposal. 한국어로도 브리핑을 전해드립니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-23.mp3" type="audio/mpeg" length="5491508" />
@@ -210,13 +217,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-25.mp3" type="audio/mpeg" length="5069085" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-25.mp3</guid>
       <pubDate>Fri, 25 Sep 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Daily Brief — Morning Edition — Thursday, 24 September 2026</title>
-      <description>Today: OpenAI launches cheaper GPT-6 Sol and Luna models as Xiaomi ships its own new model family; Victoria's construction corruption royal commission opens as a nationwide church-scam warning spreads; Queensland expands Adult Crime, Adult Time to 45 offences while ambulance ramping hits a 5-year low; and Multiplex is appointed to build the $2.25bn Coomera Hospital. Broadcast in English, followed by a full Korean-language version (오늘의 브리핑 영어 방송 후 한국어 전체 브리핑이 이어집니다).</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-24.mp3" type="audio/mpeg" length="4955781" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-24.mp3</guid>
-      <pubDate>Thu, 24 Sep 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
