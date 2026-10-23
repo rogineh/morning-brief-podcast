@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-23",
+  "title": "Daily Brief — Afternoon Edition — Friday, 23 October 2026",
+  "description": "Barclays cuts 5,000 jobs citing AI-driven efficiency, a review finds Snowy 2.0's cost could reach $25 billion, staffing shortages force a Townsville cardiac unit to pause surgeries, and the Gold Coast mayor accidentally reveals a confidential Southport land deal. 한국어로도 브리핑을 전해드립니다.",
+  "show": {
+    "docs_subdir": "afternoon",
+    "site_base": "https://rogineh.github.io/morning-brief-podcast/afternoon",
+    "channel_title": "Daily Brief — Afternoon Edition",
+    "channel_description": "A short daily news brief covering technology and AI, Australian national news, Queensland, and the Gold Coast — made for your afternoon drive."
+  }
+}
