@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/</link>
     </image>
     <item>
+      <title>Daily Brief — Morning Edition — Sunday, 25 October 2026</title>
+      <description>DeepSeek closes a $15-16 billion funding round backed by Tencent and CATL, Western Sydney's new international airport opens today, Queensland relaxes fish passage rules for waterway construction, and Chaz Mostert wins a wet Gold Coast 500 opener. 한국어로도 브리핑을 전해드립니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-25.mp3" type="audio/mpeg" length="5142212" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-25.mp3</guid>
+      <pubDate>Sun, 25 Oct 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Daily Brief — Morning Edition — Saturday, 24 October 2026</title>
       <description>OpenAI nears a $30 billion raise at a $1.25 trillion valuation ahead of a possible IPO, the UN warns Chevron over methane plumes at its Gorgon gas project, the Rugby League World Cup kicks off across Queensland venues, and the Gold Coast 500 draws huge crowds to Surfers Paradise. 한국어로도 브리핑을 전해드립니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-24.mp3" type="audio/mpeg" length="5016812" />
@@ -210,13 +217,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-26.mp3" type="audio/mpeg" length="5047725" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-26.mp3</guid>
       <pubDate>Sat, 26 Sep 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Daily Brief — Morning Edition — Friday, 25 September 2026</title>
-      <description>Today: Anthropic's Claude autonomously discovers a novel bacteriophage enzyme system as a voluntary Frontier AI Standards Agency takes shape; Lachie Neale is cleared to play Saturday's AFL grand final after his ban is overturned; Queensland's Premier pitches a 'next generation economy' at the National Press Club; and Gold Coast rail commuters face weeks more bus replacements. Broadcast in English, followed by a full Korean-language version (오늘의 브리핑 영어 방송 후 한국어 전체 브리핑이 이어집니다).</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-25.mp3" type="audio/mpeg" length="5069085" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-25.mp3</guid>
-      <pubDate>Fri, 25 Sep 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
