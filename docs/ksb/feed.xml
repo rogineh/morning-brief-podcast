@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/ksb/</link>
     </image>
     <item>
+      <title>Morning Brief — Sunday, 25 October 2026</title>
+      <description>Wholesale electricity prices fall despite record winter demand as renewables overtake gas, south-west Queensland roads close amid days of rain, and a Gold Coast driver faces court over a car stopped on tram tracks. 한국어 방송도 이어집니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-25.mp3" type="audio/mpeg" length="4080140" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-25.mp3</guid>
+      <pubDate>Sun, 25 Oct 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Morning Brief — Saturday, 24 October 2026</title>
       <description>A severe multi-state storm system builds across eastern Australia, Queensland opens a new critical minerals processing facility in Townsville, and Gold Coast maritime crews respond to three boat incidents on the Broadwater in a single day. 한국어 방송도 이어집니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-24.mp3" type="audio/mpeg" length="4108484" />
@@ -217,13 +224,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-09-26.mp3" type="audio/mpeg" length="3639933" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-09-26.mp3</guid>
       <pubDate>Sat, 26 Sep 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Morning Brief — Friday, 25 September 2026</title>
-      <description>Today: a former NGV employee is charged over an alleged $8 million phone theft scheme; Brisbane Showgrounds early works begin within weeks as part of 2032 Olympic legacy infrastructure; and the Gold Coast's BLEACH Festival returns with its biggest ever program, moving to a spring October date. Broadcast in English, followed by a full Korean-language version (오늘의 브리핑 영어 방송 후 한국어 전체 브리핑이 이어집니다).</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-09-25.mp3" type="audio/mpeg" length="3593637" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-09-25.mp3</guid>
-      <pubDate>Fri, 25 Sep 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
