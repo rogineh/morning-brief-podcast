@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/</link>
     </image>
     <item>
+      <title>Daily Brief — Morning Edition — Monday, 26 October 2026</title>
+      <description>SK Hyper seeks $350 billion for its first-phase South Korean AI data centre buildout, federal redundancies surge past $100 million across three departments, Queensland small businesses react angrily to proposed discretionary trust tax changes, and Gold Coast police return seized jet skis for lack of legal disposal power. 한국어로도 브리핑을 전해드립니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-26.mp3" type="audio/mpeg" length="5094860" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-26.mp3</guid>
+      <pubDate>Mon, 26 Oct 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Daily Brief — Morning Edition — Sunday, 25 October 2026</title>
       <description>DeepSeek closes a $15-16 billion funding round backed by Tencent and CATL, Western Sydney's new international airport opens today, Queensland relaxes fish passage rules for waterway construction, and Chaz Mostert wins a wet Gold Coast 500 opener. 한국어로도 브리핑을 전해드립니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-25.mp3" type="audio/mpeg" length="5142212" />
@@ -210,13 +217,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-27.mp3" type="audio/mpeg" length="5097549" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-27.mp3</guid>
       <pubDate>Sun, 27 Sep 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Daily Brief — Morning Edition — Saturday, 26 September 2026</title>
-      <description>Today: Alibaba unveils a sweeping AI strategy including a planned 5-10 trillion parameter model and a new chip; new data shows youth mental health decline stabilising as Brisbane and Fremantle prepare for the AFL grand final; the Dolphins chase a preliminary final upset in Ray Stone's possible final NRL game; and Gold Coast prosecutors drop a murder charge in the decade-old Omega Ruston case. Broadcast in English, followed by a full Korean-language version (오늘의 브리핑 영어 방송 후 한국어 전체 브리핑이 이어집니다).</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-26.mp3" type="audio/mpeg" length="5047725" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-26.mp3</guid>
-      <pubDate>Sat, 26 Sep 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
