@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/</link>
     </image>
     <item>
+      <title>Daily Brief — Morning Edition — Wednesday, 28 October 2026</title>
+      <description>Google DeepMind unveils its Genie 4 interactive world model, Greens Senator Jordon Steele-John steps aside amid a misconduct investigation, north-west Queensland miners warn of a skilled worker shortage, and a court overturns approval for a $130 million Kirra tower on the Gold Coast. 한국어로도 브리핑을 전해드립니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-28.mp3" type="audio/mpeg" length="5243468" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-28.mp3</guid>
+      <pubDate>Wed, 28 Oct 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Daily Brief — Morning Edition — Tuesday, 27 October 2026</title>
       <description>Anthropic formally files for a Nasdaq IPO under ticker ANT, South Australia's premier refers a $15 billion road project to ICAC over bikie infiltration fears, a Queensland fencing project nearly triples endangered yakka skink numbers, and the Gold Coast heads for its wettest October in six years. 한국어로도 브리핑을 전해드립니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-27.mp3" type="audio/mpeg" length="4963820" />
@@ -210,13 +217,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-29.mp3" type="audio/mpeg" length="5324901" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-29.mp3</guid>
       <pubDate>Tue, 29 Sep 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Daily Brief — Morning Edition — Monday, 28 September 2026</title>
-      <description>Today's stories: a frantic ten-day stretch of AI model launches and steep Alibaba Cloud price cuts, a magnitude-3.9 earthquake in Victoria's High Country ahead of this week's RBA rate decision, the opening of a new trauma-accredited ward at Cairns Hospital, and Burleigh Heads Library's return to full service ahead of the BLEACH Festival. 오늘의 브리핑은 영어에 이어 한국어로도 제공됩니다.</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-28.mp3" type="audio/mpeg" length="5636901" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-28.mp3</guid>
-      <pubDate>Mon, 28 Sep 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
