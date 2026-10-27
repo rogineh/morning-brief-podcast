@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/ksb/</link>
     </image>
     <item>
+      <title>Morning Brief — Tuesday, 27 October 2026</title>
+      <description>A new federal election funding system with lower disclosure thresholds and donation caps is set for 2027, Stanwell Power Station workers are reassured their jobs are secure under Queensland's energy transition, and the Gold Coast braces for fresh severe thunderstorm warnings. 한국어 방송도 이어집니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-27.mp3" type="audio/mpeg" length="3948668" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-27.mp3</guid>
+      <pubDate>Tue, 27 Oct 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Morning Brief — Monday, 26 October 2026</title>
       <description>The Kangaroos survive a scare to beat Fiji at the Rugby League World Cup, Queensland's latest crime statistics show assault offences continuing to fall, and the Gold Coast council adopts a broader disaster management plan covering cyber attacks and terrorism. 한국어 방송도 이어집니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-26.mp3" type="audio/mpeg" length="4134596" />
@@ -217,13 +224,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-09-28.mp3" type="audio/mpeg" length="4056597" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-09-28.mp3</guid>
       <pubDate>Mon, 28 Sep 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Morning Brief — Sunday, 27 September 2026</title>
-      <description>Today: a striking new sculpture honours children's author Andy Griffiths; the combined Queensland Heartland bid emerges as a contender for the NRL's 20th licence; and the Gold Coast Titans face Brisbane in today's NRLW preliminary final at Cbus Super Stadium. Broadcast in English, followed by a full Korean-language version (오늘의 브리핑 영어 방송 후 한국어 전체 브리핑이 이어집니다).</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-09-27.mp3" type="audio/mpeg" length="3560589" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-09-27.mp3</guid>
-      <pubDate>Sun, 27 Sep 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
