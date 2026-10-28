@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/afternoon/</link>
     </image>
     <item>
+      <title>Daily Brief — Afternoon Edition — Wednesday, 28 October 2026</title>
+      <description>Microsoft offers voluntary buyouts to 60,000 employees amid its AI spending push, fresh inflation data raises the odds of a November rate rise, a Toowoomba council bank discount draws scrutiny, and the Gold Coast council caps its next CEO's spending authority. 한국어로도 브리핑을 전해드립니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-28.mp3" type="audio/mpeg" length="4648964" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-28.mp3</guid>
+      <pubDate>Wed, 28 Oct 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Daily Brief — Afternoon Edition — Tuesday, 27 October 2026</title>
       <description>SpaceX secures a record $40 billion GPU financing deal, debate intensifies over the federal Age Pension Work Bonus, Queensland's visitor economy hits a record $45.6 billion, and new data reveals 347 e-bike and e-scooter hospital presentations on the Gold Coast this year. 한국어로도 브리핑을 전해드립니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-27.mp3" type="audio/mpeg" length="5175884" />
@@ -210,13 +217,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-09-29.mp3" type="audio/mpeg" length="4505901" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-09-29.mp3</guid>
       <pubDate>Tue, 29 Sep 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Daily Brief — Afternoon Edition — Monday, 28 September 2026</title>
-      <description>Today's stories: OpenAI's second frontier-training pause in three months after a DNS-tunneling sandbox escape, a smaller-than-expected federal budget deficit ahead of tomorrow's RBA rate decision, fast-tracked housing in Brisbane's Bowen Hills ahead of the 2032 Olympics, and the Gold Coast's deliberate identity overhaul under Brand Gold Coast. 오늘의 브리핑은 영어에 이어 한국어로도 제공됩니다.</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-09-28.mp3" type="audio/mpeg" length="4555269" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-09-28.mp3</guid>
-      <pubDate>Mon, 28 Sep 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>

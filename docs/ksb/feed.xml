@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/ksb/</link>
     </image>
     <item>
+      <title>Morning Brief — Wednesday, 28 October 2026</title>
+      <description>Police forces expand automated drone programs, Bega backs a new flood-resilient cold storage facility near Cairns, and the Gold Coast hosts the Asia Pacific Screen Awards and Forum. 한국어 방송도 이어집니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-28.mp3" type="audio/mpeg" length="3807884" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-28.mp3</guid>
+      <pubDate>Wed, 28 Oct 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Morning Brief — Tuesday, 27 October 2026</title>
       <description>A new federal election funding system with lower disclosure thresholds and donation caps is set for 2027, Stanwell Power Station workers are reassured their jobs are secure under Queensland's energy transition, and the Gold Coast braces for fresh severe thunderstorm warnings. 한국어 방송도 이어집니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-27.mp3" type="audio/mpeg" length="3948668" />
@@ -217,13 +224,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-09-29.mp3" type="audio/mpeg" length="4033029" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-09-29.mp3</guid>
       <pubDate>Tue, 29 Sep 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Morning Brief — Monday, 28 September 2026</title>
-      <description>Today's stories: the fallout from Saturday's AFL Grand Final and the Socceroos' thrilling draw with Brazil in Townsville, emergency dredging to save Queensland's Moore Park Beach, and Southport's marine rescue crew beginning a new chapter as part of Marine Rescue Queensland. 오늘의 브리핑은 영어에 이어 한국어로도 제공됩니다.</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-09-28.mp3" type="audio/mpeg" length="4056597" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-09-28.mp3</guid>
-      <pubDate>Mon, 28 Sep 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
