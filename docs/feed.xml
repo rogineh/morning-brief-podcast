@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/</link>
     </image>
     <item>
+      <title>Daily Brief — Morning Edition — Friday, 30 October 2026</title>
+      <description>OpenAI offers ChatGPT Pro and Business subscribers free API credits, the CPSU urges a measured AI rollout ahead of a federal inquiry hearing, Queensland's breach bail laws face legal-sector pushback, and the Gold Coast Suns face an AFLW finals venue crunch. 한국어로도 브리핑을 전해드립니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-30.mp3" type="audio/mpeg" length="5424764" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-30.mp3</guid>
+      <pubDate>Fri, 30 Oct 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Daily Brief — Morning Edition — Thursday, 29 October 2026</title>
       <description>Nvidia invests $3 billion in Meta's massive equity offering, Star Entertainment is fined $260 million over money laundering failures, Queensland regions post record migration growth, and unusually large bluebottles appear early on Gold Coast beaches. 한국어로도 브리핑을 전해드립니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-29.mp3" type="audio/mpeg" length="4966916" />
@@ -210,13 +217,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-01.mp3" type="audio/mpeg" length="4794525" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-01.mp3</guid>
       <pubDate>Thu, 01 Oct 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Daily Brief — Morning Edition — Wednesday, 30 September 2026</title>
-      <description>Today's stories: Anthropic's IPO prospectus revealing $518 billion in planned AI infrastructure spending, a looming Greens leadership contest after Larissa Waters' departure, the first piece of the Brisbane 2032 Olympic emblem unveiled in Cairns, and the countdown to the Gold Coast's BLEACH Festival opening tomorrow. 오늘의 브리핑은 영어에 이어 한국어로도 제공됩니다.</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-30.mp3" type="audio/mpeg" length="4992549" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-09-30.mp3</guid>
-      <pubDate>Wed, 30 Sep 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
