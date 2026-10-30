@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/</link>
     </image>
     <item>
+      <title>Daily Brief — Morning Edition — Saturday, 31 October 2026</title>
+      <description>Mistral releases open weights for its trillion-parameter Large 4 model, hot inflation data lifts expectations of an RBA rate rise on Monday, Queensland irrigators race to beat a telemetry subsidy deadline, and Gold Coast Schoolies gets a ticketed beach event for the first time. 한국어로도 브리핑을 전해드립니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-31.mp3" type="audio/mpeg" length="5347220" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-31.mp3</guid>
+      <pubDate>Sat, 31 Oct 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Daily Brief — Morning Edition — Friday, 30 October 2026</title>
       <description>OpenAI offers ChatGPT Pro and Business subscribers free API credits, the CPSU urges a measured AI rollout ahead of a federal inquiry hearing, Queensland's breach bail laws face legal-sector pushback, and the Gold Coast Suns face an AFLW finals venue crunch. 한국어로도 브리핑을 전해드립니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-30.mp3" type="audio/mpeg" length="5424764" />
@@ -210,13 +217,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-02.mp3" type="audio/mpeg" length="5078181" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-02.mp3</guid>
       <pubDate>Fri, 02 Oct 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Daily Brief — Morning Edition — Thursday, 1 October 2026</title>
-      <description>Today's stories: Siri's AI expanding to five more languages and Google's Gemini 4 entering post-training, the launch of Australia's new AusAlert emergency warning system and the Thriving Kids autism support program, nominations opening for Queensland's Bush Bachelor and Bachelorette, and the Gold Coast's BLEACH Festival opening today. 오늘의 브리핑은 영어에 이어 한국어로도 제공됩니다.</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-01.mp3" type="audio/mpeg" length="4794525" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-01.mp3</guid>
-      <pubDate>Thu, 01 Oct 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
