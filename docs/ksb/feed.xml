@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/ksb/</link>
     </image>
     <item>
+      <title>Morning Brief — Sunday, 1 November 2026</title>
+      <description>Prime Minister Albanese travels to the Caribbean for the Commonwealth Heads of Government Meeting, Queensland introduces a new permit scheme easing freight costs for farmers, and the Gold Coast council pushes for tougher waterway pollution penalties after a Palm Beach canal incident. 한국어 방송도 이어집니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-11-01.mp3" type="audio/mpeg" length="3975692" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-11-01.mp3</guid>
+      <pubDate>Sun, 01 Nov 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Morning Brief — Saturday, 31 October 2026</title>
       <description>Defence officials weigh an Iron Dome-style interceptor system to protect military bases, a new Logan hospital unit helps delirium and dementia patients transition home more safely, and the Gold Coast council considers appealing a court ruling that overturned approval for a Kirra high-rise. 한국어 방송도 이어집니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-31.mp3" type="audio/mpeg" length="3997580" />
@@ -217,13 +224,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-03.mp3" type="audio/mpeg" length="4004733" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-03.mp3</guid>
       <pubDate>Sat, 03 Oct 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Morning Brief — Friday, 2 October 2026</title>
-      <description>Today's stories: inflation jumping to 4% in August days after the RBA's latest rate hike, Queensland's new mandatory mental health reporting reforms introduced to Parliament, and progress on the proposed $2 billion Gold Coast Arena at Southport. 오늘의 브리핑은 영어에 이어 한국어로도 제공됩니다.</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-02.mp3" type="audio/mpeg" length="4053045" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-02.mp3</guid>
-      <pubDate>Fri, 02 Oct 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
