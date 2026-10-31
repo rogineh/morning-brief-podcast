@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/</link>
     </image>
     <item>
+      <title>Daily Brief — Morning Edition — Sunday, 1 November 2026</title>
+      <description>Big Tech's AI spending commitments top $3 trillion as OpenAI trims its funding round, Australia's EU trade deal faces Coalition pushback over farm access and climate clauses, Queensland's hospitals report record ambulance demand, and a Gold Coast boat safety blitz exposes widespread rule-breaking on the Nerang River. 한국어로도 브리핑을 전해드립니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-11-01.mp3" type="audio/mpeg" length="5589836" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-11-01.mp3</guid>
+      <pubDate>Sun, 01 Nov 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Daily Brief — Morning Edition — Saturday, 31 October 2026</title>
       <description>Mistral releases open weights for its trillion-parameter Large 4 model, hot inflation data lifts expectations of an RBA rate rise on Monday, Queensland irrigators race to beat a telemetry subsidy deadline, and Gold Coast Schoolies gets a ticketed beach event for the first time. 한국어로도 브리핑을 전해드립니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-31.mp3" type="audio/mpeg" length="5347220" />
@@ -210,13 +217,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-03.mp3" type="audio/mpeg" length="4913661" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-03.mp3</guid>
       <pubDate>Sat, 03 Oct 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Daily Brief — Morning Edition — Friday, 2 October 2026</title>
-      <description>Today's stories: Meta's new Hatch AI agent platform and upcoming Watermelon model, Chris Fagan stepping down as Brisbane Lions coach after a historic three-peat and flooding fears for south-east Australia after its driest September in years, the final week of the Toowoomba Carnival of Flowers, and the full program reveal for Gold Coast Open House. 오늘의 브리핑은 영어에 이어 한국어로도 제공됩니다.</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-02.mp3" type="audio/mpeg" length="5078181" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-02.mp3</guid>
-      <pubDate>Fri, 02 Oct 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
