@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/</link>
     </image>
     <item>
+      <title>Daily Brief — Morning Edition — Monday, 2 November 2026</title>
+      <description>Credit markets grow nervous about AI debt as default insurance costs hit record highs, Australian home values post their fastest decline in decades ahead of the RBA's next rate call, Queensland's tourism economy hits a record $45.6 billion, and a Gold Coast FOI dispute reignites scrutiny of the mayor's Mar-a-Lago stay. 한국어로도 브리핑을 전해드립니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-11-02.mp3" type="audio/mpeg" length="5367380" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-11-02.mp3</guid>
+      <pubDate>Mon, 02 Nov 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Daily Brief — Morning Edition — Sunday, 1 November 2026</title>
       <description>Big Tech's AI spending commitments top $3 trillion as OpenAI trims its funding round, Australia's EU trade deal faces Coalition pushback over farm access and climate clauses, Queensland's hospitals report record ambulance demand, and a Gold Coast boat safety blitz exposes widespread rule-breaking on the Nerang River. 한국어로도 브리핑을 전해드립니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-11-01.mp3" type="audio/mpeg" length="5589836" />
@@ -210,13 +217,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-04.mp3" type="audio/mpeg" length="4952109" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-04.mp3</guid>
       <pubDate>Sun, 04 Oct 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Daily Brief — Morning Edition — Saturday, 3 October 2026</title>
-      <description>Today's stories: Anthropic's faster, cheaper Claude Sonnet 5.5 release, daylight saving starting this weekend alongside a Victorian flood watch after record dry conditions, Queensland stripping councils of data centre approval powers, and oversized bluebottles washing up on Gold Coast beaches ahead of tonight's SIX60 show at BLEACH Festival. 오늘의 브리핑은 영어에 이어 한국어로도 제공됩니다.</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-03.mp3" type="audio/mpeg" length="4913661" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-03.mp3</guid>
-      <pubDate>Sat, 03 Oct 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
