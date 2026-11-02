@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/</link>
     </image>
     <item>
+      <title>Daily Brief — Morning Edition — Tuesday, 3 November 2026</title>
+      <description>Abu Dhabi signs four AI deals with OpenAI in a push to become an AI-native government, the RBA board meets today with a rate rise widely expected, Queensland remains the only holdout on the national Thriving Kids disability program, and the Gold Coast council drops its fight against the Oxenford quarry expansion. 한국어로도 브리핑을 전해드립니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-11-03.mp3" type="audio/mpeg" length="5644556" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-11-03.mp3</guid>
+      <pubDate>Tue, 03 Nov 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Daily Brief — Morning Edition — Monday, 2 November 2026</title>
       <description>Credit markets grow nervous about AI debt as default insurance costs hit record highs, Australian home values post their fastest decline in decades ahead of the RBA's next rate call, Queensland's tourism economy hits a record $45.6 billion, and a Gold Coast FOI dispute reignites scrutiny of the mayor's Mar-a-Lago stay. 한국어로도 브리핑을 전해드립니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-11-02.mp3" type="audio/mpeg" length="5367380" />
@@ -210,13 +217,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-05.mp3" type="audio/mpeg" length="5102877" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-05.mp3</guid>
       <pubDate>Mon, 05 Oct 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Daily Brief — Morning Edition — Sunday, 4 October 2026</title>
-      <description>Today's stories: Google DeepMind's new SynthID Bio watermarking system for AI-designed proteins, NRL and NRLW grand final day in Sydney alongside the start of daylight saving, the final stretch of Queensland's King's Birthday long weekend, and calm boating conditions on the Gold Coast as BLEACH Festival continues. 오늘의 브리핑은 영어에 이어 한국어로도 제공됩니다.</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-04.mp3" type="audio/mpeg" length="4952109" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-04.mp3</guid>
-      <pubDate>Sun, 04 Oct 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
