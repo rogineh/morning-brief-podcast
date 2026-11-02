@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/afternoon/</link>
     </image>
     <item>
+      <title>Daily Brief — Afternoon Edition — Monday, 2 November 2026</title>
+      <description>OpenAI merges ChatGPT and Codex into one shared usage allowance, Australian markets dip ahead of an expected RBA rate rise, Queensland swears in its 28th governor, and the Gold Coast weighs a night-surfing lighting trial amid shark-risk concerns. 한국어로도 브리핑을 전해드립니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-11-02.mp3" type="audio/mpeg" length="5008028" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-11-02.mp3</guid>
+      <pubDate>Mon, 02 Nov 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Daily Brief — Afternoon Edition — Sunday, 1 November 2026</title>
       <description>Apple overtakes Nvidia as the world's most valuable company amid AI capex jitters, the federal government won't appeal a court ruling clearing a stalled NSW gold mine, Queensland's Land Court backs a $1 billion Bowen Basin coal mine, and the Gold Coast Suns narrowly miss AFLW top four despite beating the Giants. 한국어로도 브리핑을 전해드립니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-11-01.mp3" type="audio/mpeg" length="4941020" />
@@ -210,13 +217,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-04.mp3" type="audio/mpeg" length="4420557" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-04.mp3</guid>
       <pubDate>Sun, 04 Oct 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Daily Brief — Afternoon Edition — Saturday, 3 October 2026</title>
-      <description>Today's stories: six AI CEOs signing a voluntary safety accord with President Trump, an escalating Victorian flood watch now covering most of the state, a sport-packed King's Birthday long weekend across Queensland, and the Gold Coast's theme parks and beaches bracing for long-weekend crowds. 오늘의 브리핑은 영어에 이어 한국어로도 제공됩니다.</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-03.mp3" type="audio/mpeg" length="4236477" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-03.mp3</guid>
-      <pubDate>Sat, 03 Oct 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
