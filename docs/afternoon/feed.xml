@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/afternoon/</link>
     </image>
     <item>
+      <title>Daily Brief — Afternoon Edition — Tuesday, 3 November 2026</title>
+      <description>Marvell agrees to a $115 billion all-stock deal for Lumentum, the RBA lifts rates to an 18-year high in a split decision, Queensland braces for dangerous supercell storms, and Gold Coast property prices post a sharp quarterly fall. 한국어로도 브리핑을 전해드립니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-11-03.mp3" type="audio/mpeg" length="5021420" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-11-03.mp3</guid>
+      <pubDate>Tue, 03 Nov 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Daily Brief — Afternoon Edition — Monday, 2 November 2026</title>
       <description>OpenAI merges ChatGPT and Codex into one shared usage allowance, Australian markets dip ahead of an expected RBA rate rise, Queensland swears in its 28th governor, and the Gold Coast weighs a night-surfing lighting trial amid shark-risk concerns. 한국어로도 브리핑을 전해드립니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-11-02.mp3" type="audio/mpeg" length="5008028" />
@@ -210,13 +217,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-05.mp3" type="audio/mpeg" length="4373277" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-05.mp3</guid>
       <pubDate>Mon, 05 Oct 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Daily Brief — Afternoon Edition — Sunday, 4 October 2026</title>
-      <description>Today's stories: OpenAI scrapping its GPT-6.1 Astra release over safety concerns and the FTC's new investigation into major AI developers, the Roosters' dominant NRLW grand final win ahead of tonight's NRL decider, building storm risk across south-east Queensland, and Gold Coast families making the most of the long weekend's final day. 오늘의 브리핑은 영어에 이어 한국어로도 제공됩니다.</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-04.mp3" type="audio/mpeg" length="4420557" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-04.mp3</guid>
-      <pubDate>Sun, 04 Oct 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
