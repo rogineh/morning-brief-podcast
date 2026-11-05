@@ -1,0 +1,11 @@
+{
+  "date": "2026-11-06",
+  "title": "Morning Brief — Friday, 6 November 2026",
+  "description": "Tributes flow for Formula One legend Alan Jones, Brisbane residents are invited to comment on a 20-year vision for Mt Coot-tha, and the Gold Coast Suns prepare to host Hawthorn in an AFLW elimination final. 한국어 방송도 이어집니다.",
+  "show": {
+    "docs_subdir": "ksb",
+    "site_base": "https://rogineh.github.io/morning-brief-podcast/ksb",
+    "channel_title": "Morning Brief — Australia Edition",
+    "channel_description": "A short daily news brief covering Australian national news, Queensland, and the Gold Coast — made to listen to on the morning drive."
+  }
+}
