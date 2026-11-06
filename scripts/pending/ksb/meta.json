@@ -1,0 +1,11 @@
+{
+  "date": "2026-11-07",
+  "title": "Morning Brief — Saturday, 7 November 2026",
+  "description": "The banking regulator hits Macquarie Group with a fresh $100 million capital overlay, Mount Morgan celebrates the completion of a long-awaited water pipeline, and the Gold Coast gears up for tonight's Pan Pacific Masters Games opening ceremony. 한국어 방송도 이어집니다.",
+  "show": {
+    "docs_subdir": "ksb",
+    "site_base": "https://rogineh.github.io/morning-brief-podcast/ksb",
+    "channel_title": "Morning Brief — Australia Edition",
+    "channel_description": "A short daily news brief covering Australian national news, Queensland, and the Gold Coast — made to listen to on the morning drive."
+  }
+}
