@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/</link>
     </image>
     <item>
+      <title>Daily Brief — Morning Edition — Sunday, 8 November 2026</title>
+      <description>Microsoft winds down its Oracle AI cloud deal, the federal government presses ahead with a $3 billion defence property sell-off, a severe heatwave builds across northern Queensland, and Tim Tszyu is confirmed for a world title fight on the Gold Coast. 한국어로도 브리핑을 전해드립니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-11-08.mp3" type="audio/mpeg" length="5303804" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-11-08.mp3</guid>
+      <pubDate>Sun, 08 Nov 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Daily Brief — Morning Edition — Saturday, 7 November 2026</title>
       <description>An AI-driven stock sell-off spreads from Wall Street across Asian markets, Australia develops its first national e-bike safety standard, Queensland's South Sea Islander community calls for a reparations meeting with the PM, and a Gold Coast report finds no affordable rentals for essential workers. 한국어로도 브리핑을 전해드립니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-11-07.mp3" type="audio/mpeg" length="5432396" />
@@ -210,13 +217,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-10.mp3" type="audio/mpeg" length="5826117" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-10.mp3</guid>
       <pubDate>Sat, 10 Oct 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Daily Brief — Morning Edition — Friday, 9 October 2026</title>
-      <description>South Australia's new Royal Commission into AI and SpaceX's reported $40 billion raise for Nvidia chips, construction starting on the $1.8 billion Nolans rare earths project and a possible aurora tonight, Queensland's mining sector watching a High Court emissions ruling, and World Supercross axing its Gold Coast round plus unusually large bluebottles washing ashore. 한국어로도 브리핑을 전해드립니다.</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-09.mp3" type="audio/mpeg" length="4936245" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-09.mp3</guid>
-      <pubDate>Fri, 09 Oct 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
