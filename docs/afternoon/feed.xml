@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/afternoon/</link>
     </image>
     <item>
+      <title>Daily Brief — Afternoon Edition — Saturday, 7 November 2026</title>
+      <description>CrowdStrike launches an AI kill switch for rogue agents, Australia prepares to lead COP31 negotiations in Turkey, Queensland reports falling bail-related victim numbers ahead of tougher laws, and the Gold Coast hosts hundreds of outrigger paddlers at the Pan Pacific Masters Games. 한국어로도 브리핑을 전해드립니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-11-07.mp3" type="audio/mpeg" length="5202692" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-11-07.mp3</guid>
+      <pubDate>Sat, 07 Nov 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Daily Brief — Afternoon Edition — Friday, 6 November 2026</title>
       <description>A brutal overnight tech sell-off wipes $2.3 trillion off markets, a political fight erupts over where Australia's data centres should be built, Queensland's $32 billion Western Downs data centre secures a builder and power link, and the Gold Coast records its hottest November day in 30 years alongside an overnight blackout. 한국어로도 브리핑을 전해드립니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-11-06.mp3" type="audio/mpeg" length="5043380" />
@@ -210,13 +217,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-09.mp3" type="audio/mpeg" length="4273125" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-09.mp3</guid>
       <pubDate>Fri, 09 Oct 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Daily Brief — Afternoon Edition — Thursday, 8 October 2026</title>
-      <description>Anthropic's cheaper Claude Haiku 5.5 and OpenAI's GPT-6 rollout with a new Intelligent UI, mixed auction results and a sobering home-care wait-times statistic, Get Ready Queensland Week and the state's first veterans' strategy, and the Gold Coast Suns' list rebuild with Nick Blakey and Aidan Schubert. 한국어로도 브리핑을 전해드립니다.</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-08.mp3" type="audio/mpeg" length="4404309" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-08.mp3</guid>
-      <pubDate>Thu, 08 Oct 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
