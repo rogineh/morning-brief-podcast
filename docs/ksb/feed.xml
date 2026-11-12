@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/ksb/</link>
     </image>
     <item>
+      <title>Morning Brief — Friday, 13 November 2026</title>
+      <description>Australian households continue to see electricity price relief under the latest default market offer, land is secured in Rockhampton for a new Queensland Academy for Health Sciences, and the Gold Coast Convention Centre reaffirms its economic impact. 한국어 방송도 이어집니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-11-13.mp3" type="audio/mpeg" length="4189892" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-11-13.mp3</guid>
+      <pubDate>Fri, 13 Nov 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Morning Brief — Thursday, 12 November 2026</title>
       <description>Virgin Australia and Qatar Airways look to expand their Doha partnership, the Brisbane Heat prepare for the new Big Bash League season under a new coach, and a major new manufacturing facility breaks ground at Yatala on the Gold Coast. 한국어 방송도 이어집니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-11-12.mp3" type="audio/mpeg" length="4126484" />
@@ -217,13 +224,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-15.mp3" type="audio/mpeg" length="3885837" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-15.mp3</guid>
       <pubDate>Thu, 15 Oct 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Morning Brief — Wednesday, 14 October 2026</title>
-      <description>National house prices keep climbing even as Sydney and Melbourne growth slows, Queensland tenders the next stage of the billion-dollar Cairns Hospital expansion, and the Gold Coast's tourism economy posts near-record domestic visitor numbers ahead of 2032. 한국어 방송도 이어집니다.</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-14.mp3" type="audio/mpeg" length="3944469" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-14.mp3</guid>
-      <pubDate>Wed, 14 Oct 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
