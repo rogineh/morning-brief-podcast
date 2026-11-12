@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/ksb/</link>
     </image>
     <item>
+      <title>Morning Brief — Thursday, 12 November 2026</title>
+      <description>Virgin Australia and Qatar Airways look to expand their Doha partnership, the Brisbane Heat prepare for the new Big Bash League season under a new coach, and a major new manufacturing facility breaks ground at Yatala on the Gold Coast. 한국어 방송도 이어집니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-11-12.mp3" type="audio/mpeg" length="4126484" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-11-12.mp3</guid>
+      <pubDate>Thu, 12 Nov 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Morning Brief — Wednesday, 11 November 2026</title>
       <description>A new ban on NDIS provider kickbacks takes effect later this month, nine Queensland state schools are honoured at this year's Showcase Awards, and major construction ramps up on the Gold Coast's new Coomera Hospital. 한국어 방송도 이어집니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-11-11.mp3" type="audio/mpeg" length="3891860" />
@@ -217,13 +224,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-14.mp3" type="audio/mpeg" length="3944469" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-14.mp3</guid>
       <pubDate>Wed, 14 Oct 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Morning Brief — Tuesday, 13 October 2026</title>
-      <description>The Reserve Bank holds the cash rate steady at 4.35%, Queensland locks in builders for the new Toowoomba Hospital's mental health and acute beds, and the Gold Coast gets a contractor for the new Coomera Hospital as plans to extend the light rail south are officially shelved. 한국어 방송도 이어집니다.</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-13.mp3" type="audio/mpeg" length="3732957" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-13.mp3</guid>
-      <pubDate>Tue, 13 Oct 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
