@@ -1,0 +1,11 @@
+{
+  "date": "2026-11-13",
+  "title": "Morning Brief — Friday, 13 November 2026",
+  "description": "Australian households continue to see electricity price relief under the latest default market offer, land is secured in Rockhampton for a new Queensland Academy for Health Sciences, and the Gold Coast Convention Centre reaffirms its economic impact. 한국어 방송도 이어집니다.",
+  "show": {
+    "docs_subdir": "ksb",
+    "site_base": "https://rogineh.github.io/morning-brief-podcast/ksb",
+    "channel_title": "Morning Brief — Australia Edition",
+    "channel_description": "A short daily news brief covering Australian national news, Queensland, and the Gold Coast — made to listen to on the morning drive."
+  }
+}
