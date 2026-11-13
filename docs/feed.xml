@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/</link>
     </image>
     <item>
+      <title>Daily Brief — Morning Edition — Saturday, 14 November 2026</title>
+      <description>Microsoft tightens oversight of its neocloud data centre partners, Woolworths continues outpacing Coles in quarterly sales, Brisbane's Suncorp Stadium prepares for its biggest-ever upgrade ahead of the 2027 Rugby World Cup, and Gold Coast industry figures discuss transport and growth planning. 한국어로도 브리핑을 전해드립니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-11-14.mp3" type="audio/mpeg" length="5338892" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-11-14.mp3</guid>
+      <pubDate>Sat, 14 Nov 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Daily Brief — Morning Edition — Friday, 13 November 2026</title>
       <description>Meta pauses its controversial AI-scraping terms update, the RBA's latest forecasts point to persistent inflation, a Queensland bill would ease Byerwen mine housing rules, and Australia's first footpath delivery robots launch at Griffith University on the Gold Coast. 한국어로도 브리핑을 전해드립니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-11-13.mp3" type="audio/mpeg" length="5130116" />
@@ -217,13 +224,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-16.mp3" type="audio/mpeg" length="5698821" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-16.mp3</guid>
       <pubDate>Fri, 16 Oct 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Daily Brief — Morning Edition — Thursday, 15 October 2026</title>
-      <description>AI's soaring electricity demand strains power grids as Anthropic expands its international workforce, Australia's Land Forces expo sets six defence technology priorities within a $425B decade-long spending plan, Queensland takes its community cabinet to Goondiwindi, and the Gold Coast seeks a developer for the Nerang precinct amid a Bilinga tower height dispute. 한국어로도 브리핑을 전해드립니다.</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-15.mp3" type="audio/mpeg" length="5271141" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-15.mp3</guid>
-      <pubDate>Thu, 15 Oct 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
