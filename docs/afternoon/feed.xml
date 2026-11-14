@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/afternoon/</link>
     </image>
     <item>
+      <title>Daily Brief — Afternoon Edition — Saturday, 14 November 2026</title>
+      <description>Google expands a gigawatt-scale virtual power plant deal with Voltus, Australia's digital duty of care bill progresses, Queensland awaits tomorrow's Rugby League World Cup final at Suncorp Stadium, and Dreamworld's owner builds on its turnaround to profitability. 한국어로도 브리핑을 전해드립니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-11-14.mp3" type="audio/mpeg" length="5104244" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-11-14.mp3</guid>
+      <pubDate>Sat, 14 Nov 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Daily Brief — Afternoon Edition — Friday, 13 November 2026</title>
       <description>AMD posts record quarterly revenue on surging data centre demand, Australians are warned over a major myGov scam investigation, Queensland's free mental health centre network expands to 17 locations, and the Gold Coast approves a new Palm Beach apartment project. 한국어로도 브리핑을 전해드립니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-11-13.mp3" type="audio/mpeg" length="4943252" />
@@ -217,13 +224,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-16.mp3" type="audio/mpeg" length="4955661" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-16.mp3</guid>
       <pubDate>Fri, 16 Oct 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Daily Brief — Afternoon Edition — Thursday, 15 October 2026</title>
-      <description>Apple reportedly turns to Google's Gemini to power Siri as Meta trims its Reality Labs division while AI spending surges, Australia's hospital funding boost continues to flow amid ongoing Commonwealth-state negotiations, Queensland firms up its 2032 Olympic venue plan, and the Gold Coast unlocks land for nearly 19,000 new homes. 한국어로도 브리핑을 전해드립니다.</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-15.mp3" type="audio/mpeg" length="4818285" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-15.mp3</guid>
-      <pubDate>Thu, 15 Oct 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
