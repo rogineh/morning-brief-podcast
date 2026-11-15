@@ -1,0 +1,11 @@
+{
+  "date": "2026-11-16",
+  "title": "Morning Brief — Monday, 16 November 2026",
+  "description": "Australia pays the world's heaviest price in the global diesel supply crunch, Queensland unveils a four-lane upgrade design for the Bribie Island Bridge, and the Gold Coast expands its drone-based shark monitoring program ahead of summer. 한국어 방송도 이어집니다.",
+  "show": {
+    "docs_subdir": "ksb",
+    "site_base": "https://rogineh.github.io/morning-brief-podcast/ksb",
+    "channel_title": "Morning Brief — Australia Edition",
+    "channel_description": "A short daily news brief covering Australian national news, Queensland, and the Gold Coast — made to listen to on the morning drive."
+  }
+}
