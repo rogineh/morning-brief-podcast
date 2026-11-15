@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/ksb/</link>
     </image>
     <item>
+      <title>Morning Brief — Monday, 16 November 2026</title>
+      <description>Australia pays the world's heaviest price in the global diesel supply crunch, Queensland unveils a four-lane upgrade design for the Bribie Island Bridge, and the Gold Coast expands its drone-based shark monitoring program ahead of summer. 한국어 방송도 이어집니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-11-16.mp3" type="audio/mpeg" length="3805100" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-11-16.mp3</guid>
+      <pubDate>Mon, 16 Nov 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Morning Brief — Sunday, 15 November 2026</title>
       <description>New aged care resident protections take effect nationally, Queensland's export award winners head to next week's national finals in Canberra, and the Gold Coast's airport progresses its 20-year master plan ahead of the 2032 Olympics. 한국어 방송도 이어집니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-11-15.mp3" type="audio/mpeg" length="4130852" />
@@ -217,13 +224,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-18.mp3" type="audio/mpeg" length="3679317" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-18.mp3</guid>
       <pubDate>Sun, 18 Oct 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Morning Brief — Saturday, 17 October 2026</title>
-      <description>The Bell Bay Aluminium smelter's future is secured through 2031 with a $200M support package and new power deal, Queensland's Cross River Rail reaches a visible construction milestone at Albert Street station, and the Gold Coast opens the first stage of its Greenheart Robina Parklands. 한국어 방송도 이어집니다.</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-17.mp3" type="audio/mpeg" length="3634821" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-17.mp3</guid>
-      <pubDate>Sat, 17 Oct 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
