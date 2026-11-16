@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/</link>
     </image>
     <item>
+      <title>Daily Brief — Morning Edition — Tuesday, 17 November 2026</title>
+      <description>Microsoft's Ignite conference kicks off in San Francisco, the RBA's November minutes are due later today, Queensland celebrates its 41st Tourism Awards, and the Gold Coast's convention centre posts a $383 million economic contribution for the year. 한국어로도 브리핑을 전해드립니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-11-17.mp3" type="audio/mpeg" length="5202548" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-11-17.mp3</guid>
+      <pubDate>Tue, 17 Nov 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Daily Brief — Morning Edition — Monday, 16 November 2026</title>
       <description>World governments and AI companies sign the Paris Call for AI safety, Qantas confirms 850 corporate job cuts amid an offshoring push, the Kangaroos claim a fourth straight Rugby League World Cup title at Suncorp Stadium, and the Gold Coast's planned arena advances toward its 2030 opening. 한국어로도 브리핑을 전해드립니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-11-16.mp3" type="audio/mpeg" length="5325356" />
@@ -217,13 +224,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-19.mp3" type="audio/mpeg" length="5122869" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-19.mp3</guid>
       <pubDate>Mon, 19 Oct 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Daily Brief — Morning Edition — Sunday, 18 October 2026</title>
-      <description>Fresh AI capital keeps flowing as Microsoft and Nvidia roll out new specialised systems, Australia's dry spring breaks with a major rain system forecast across the eastern states, Cairns secures hundreds of millions in state and federal funding, and the Gold Coast's first dedicated surf park at Parkwood moves toward construction. 한국어로도 브리핑을 전해드립니다.</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-18.mp3" type="audio/mpeg" length="5377005" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-18.mp3</guid>
-      <pubDate>Sun, 18 Oct 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
