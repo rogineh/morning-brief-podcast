@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/</link>
     </image>
     <item>
+      <title>Daily Brief — Morning Edition — Thursday, 19 November 2026</title>
+      <description>The FBI warns of an AI-driven hacking tool automating cyberattacks, Australia awaits today's October labour force figures, Queensland braces for a dangerous bushfire season, and the Gold Coast's Pacific Fair is named the state's top shopping centre. 한국어로도 브리핑을 전해드립니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-11-19.mp3" type="audio/mpeg" length="5234228" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-11-19.mp3</guid>
+      <pubDate>Thu, 19 Nov 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Daily Brief — Morning Edition — Wednesday, 18 November 2026</title>
       <description>Australia moves to legislate mandatory AI safety obligations and a new regulator, the extended childcare wage subsidy keeps educator pay rises in place, Queensland widens its flood recovery grants, and the Gold Coast scrambles to fill a gap left by the cancelled World Supercross round. 한국어로도 브리핑을 전해드립니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-11-18.mp3" type="audio/mpeg" length="5267636" />
@@ -217,13 +224,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-21.mp3" type="audio/mpeg" length="5451405" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-21.mp3</guid>
       <pubDate>Wed, 21 Oct 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Daily Brief — Morning Edition — Tuesday, 20 October 2026</title>
-      <description>Google's open Gemma 4 model contrasts with Microsoft's tightly controlled Azure-only models, Australia's housing auction clearance rates slide sharply ahead of November's RBA decision, a $2 billion deal unlocks infrastructure for 51,000 new Queensland homes, and a $580 million Broadbeach tower wins approval on the Gold Coast. 한국어로도 브리핑을 전해드립니다.</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-20.mp3" type="audio/mpeg" length="5170077" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-20.mp3</guid>
-      <pubDate>Tue, 20 Oct 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
