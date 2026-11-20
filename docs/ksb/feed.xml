@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/ksb/</link>
     </image>
     <item>
+      <title>Morning Brief — Friday, 20 November 2026</title>
+      <description>Australia chairs COP31 negotiations in Antalya, Queensland's regional Community Cabinet program continues with new funding for Goondiwindi, and the Gold Coast Suns wrap up a club-record AFLW season. 한국어 방송도 이어집니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-11-20.mp3" type="audio/mpeg" length="3745028" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-11-20.mp3</guid>
+      <pubDate>Fri, 20 Nov 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Morning Brief — Thursday, 19 November 2026</title>
       <description>A new Veterans' Hub takes shape in Geelong as national support reforms continue, Queensland unveils a ten-year freight strategy, and a Bond University graduate is named Queensland's Rhodes Scholar. 한국어 방송도 이어집니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-11-19.mp3" type="audio/mpeg" length="3763388" />
@@ -217,13 +224,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-22.mp3" type="audio/mpeg" length="4328637" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-22.mp3</guid>
       <pubDate>Thu, 22 Oct 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Morning Brief — Wednesday, 21 October 2026</title>
-      <description>A new Human Rights Commission report finds pregnancy discrimination still widespread in Australian workplaces, Queensland's Adult Crime, Adult Time laws expand amid continued debate, and the Gold Coast 500 Supercars finals opener brings crowds to Surfers Paradise this weekend. 한국어 방송도 이어집니다.</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-21.mp3" type="audio/mpeg" length="4012413" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-21.mp3</guid>
-      <pubDate>Wed, 21 Oct 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
