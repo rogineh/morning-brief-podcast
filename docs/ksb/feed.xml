@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/ksb/</link>
     </image>
     <item>
+      <title>Morning Brief — Monday, 23 November 2026</title>
+      <description>Canberra's Commonwealth Prac Payment expands to ten more health disciplines, Queensland's expanded Hervey Bay Hospital officially opens, and Gold Coast road-safety firm Acusensus keeps winning new US state contracts. 한국어 방송도 이어집니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-11-23.mp3" type="audio/mpeg" length="3985412" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-11-23.mp3</guid>
+      <pubDate>Mon, 23 Nov 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Morning Brief — Sunday, 22 November 2026</title>
       <description>Canberra softens its planned working holiday visa overhaul after regional backlash, Redland City Council confirms a December mayoral by-election, and the Gold Coast's council farewells chief executive Tim Baker. 한국어 방송도 이어집니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-11-22.mp3" type="audio/mpeg" length="3660596" />
@@ -217,13 +224,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-25.mp3" type="audio/mpeg" length="4080140" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-25.mp3</guid>
       <pubDate>Sun, 25 Oct 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Morning Brief — Saturday, 24 October 2026</title>
-      <description>A severe multi-state storm system builds across eastern Australia, Queensland opens a new critical minerals processing facility in Townsville, and Gold Coast maritime crews respond to three boat incidents on the Broadwater in a single day. 한국어 방송도 이어집니다.</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-24.mp3" type="audio/mpeg" length="4108484" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-24.mp3</guid>
-      <pubDate>Sat, 24 Oct 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
