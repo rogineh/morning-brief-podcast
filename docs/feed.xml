@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/</link>
     </image>
     <item>
+      <title>Daily Brief — Morning Edition — Monday, 23 November 2026</title>
+      <description>A major bank warns businesses about increasingly convincing AI-enabled scams, Australia's foreign home-buyer ban stays a live point in the housing debate, Queensland's Tennis Centre Olympic upgrade moves into site investigations, and the Gold Coast Titans secure $25 million for a new Carrara training hub. 한국어로도 브리핑을 전해드립니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-11-23.mp3" type="audio/mpeg" length="5186828" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-11-23.mp3</guid>
+      <pubDate>Mon, 23 Nov 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Daily Brief — Morning Edition — Sunday, 22 November 2026</title>
       <description>Anthropic releases its new Claude Fable 5.2 and Mythos 5.2 AI models, Canberra and the Coalition spar over the outlook for household energy bills, Queensland unveils a new masterplan for the Prince Charles Hospital, and the Gold Coast's visitor economy hits a record $8.9 billion. 한국어로도 브리핑을 전해드립니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-11-22.mp3" type="audio/mpeg" length="5302700" />
@@ -217,13 +224,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-25.mp3" type="audio/mpeg" length="5142212" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-25.mp3</guid>
       <pubDate>Sun, 25 Oct 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Daily Brief — Morning Edition — Saturday, 24 October 2026</title>
-      <description>OpenAI nears a $30 billion raise at a $1.25 trillion valuation ahead of a possible IPO, the UN warns Chevron over methane plumes at its Gorgon gas project, the Rugby League World Cup kicks off across Queensland venues, and the Gold Coast 500 draws huge crowds to Surfers Paradise. 한국어로도 브리핑을 전해드립니다.</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-24.mp3" type="audio/mpeg" length="5016812" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-24.mp3</guid>
-      <pubDate>Sat, 24 Oct 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
