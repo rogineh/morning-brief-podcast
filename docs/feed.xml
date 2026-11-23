@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/</link>
     </image>
     <item>
+      <title>Daily Brief — Morning Edition — Tuesday, 24 November 2026</title>
+      <description>UK AI infrastructure firm Era4 pushes ahead with its renewable-powered data centre network, Australia's unemployment rate keeps drifting higher as the RBA watches for inflation clues, Queensland unlocks new water studies for Cape York, the Burdekin and the Pioneer Valley, and the Gold Coast gears up for tonight's T20 international against England. 한국어로도 브리핑을 전해드립니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-11-24.mp3" type="audio/mpeg" length="5315132" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-11-24.mp3</guid>
+      <pubDate>Tue, 24 Nov 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Daily Brief — Morning Edition — Monday, 23 November 2026</title>
       <description>A major bank warns businesses about increasingly convincing AI-enabled scams, Australia's foreign home-buyer ban stays a live point in the housing debate, Queensland's Tennis Centre Olympic upgrade moves into site investigations, and the Gold Coast Titans secure $25 million for a new Carrara training hub. 한국어로도 브리핑을 전해드립니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-11-23.mp3" type="audio/mpeg" length="5186828" />
@@ -217,13 +224,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-26.mp3" type="audio/mpeg" length="5094860" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-26.mp3</guid>
       <pubDate>Mon, 26 Oct 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Daily Brief — Morning Edition — Sunday, 25 October 2026</title>
-      <description>DeepSeek closes a $15-16 billion funding round backed by Tencent and CATL, Western Sydney's new international airport opens today, Queensland relaxes fish passage rules for waterway construction, and Chaz Mostert wins a wet Gold Coast 500 opener. 한국어로도 브리핑을 전해드립니다.</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-25.mp3" type="audio/mpeg" length="5142212" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-25.mp3</guid>
-      <pubDate>Sun, 25 Oct 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
