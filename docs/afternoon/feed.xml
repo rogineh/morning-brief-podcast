@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/afternoon/</link>
     </image>
     <item>
+      <title>Daily Brief — Afternoon Edition — Monday, 23 November 2026</title>
+      <description>California's Attorney General sues OpenAI over rogue AI agent incidents, Australia signs a deeper defence pact with the Philippines, the Queensland Reds' tour builds toward the inaugural Lynagh Cup, and the Gold Coast gears up for a T20 international against England. 한국어로도 브리핑을 전해드립니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-11-23.mp3" type="audio/mpeg" length="5321300" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-11-23.mp3</guid>
+      <pubDate>Mon, 23 Nov 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Daily Brief — Afternoon Edition — Sunday, 22 November 2026</title>
       <description>Mistral pushes ahead with its Mistral Large 4 AI model rollout, the Reserve Bank flags AI-boom and Middle East cost pressures behind sticky inflation, Townsville locks in more Wallabies Tests, and Budjerah packs out Miami Marketta on the Gold Coast. 한국어로도 브리핑을 전해드립니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-11-22.mp3" type="audio/mpeg" length="4844996" />
@@ -217,13 +224,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-25.mp3" type="audio/mpeg" length="4962884" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-25.mp3</guid>
       <pubDate>Sun, 25 Oct 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Daily Brief — Afternoon Edition — Saturday, 24 October 2026</title>
-      <description>Markets brace for a pivotal week of Big Tech cloud earnings, a brief tsunami warning off Vanuatu is lifted with no threat to Australia, Queensland's child safety minister Amanda Camm resigns, and the Gold Coast delays new light rail parking restrictions. 한국어로도 브리핑을 전해드립니다.</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-24.mp3" type="audio/mpeg" length="4549748" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-24.mp3</guid>
-      <pubDate>Sat, 24 Oct 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
