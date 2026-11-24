@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/</link>
     </image>
     <item>
+      <title>Daily Brief — Morning Edition — Wednesday, 25 November 2026</title>
+      <description>AI startup Edge0 releases open-weight models built to run on a single consumer GPU, fresh figures show Australia's economy growing modestly, Queensland confirms the design team for Brisbane's new Olympic stadium, and the Gold Coast hosts its second T20 international against England. 한국어로도 브리핑을 전해드립니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-11-25.mp3" type="audio/mpeg" length="5351708" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-11-25.mp3</guid>
+      <pubDate>Wed, 25 Nov 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Daily Brief — Morning Edition — Tuesday, 24 November 2026</title>
       <description>UK AI infrastructure firm Era4 pushes ahead with its renewable-powered data centre network, Australia's unemployment rate keeps drifting higher as the RBA watches for inflation clues, Queensland unlocks new water studies for Cape York, the Burdekin and the Pioneer Valley, and the Gold Coast gears up for tonight's T20 international against England. 한국어로도 브리핑을 전해드립니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-11-24.mp3" type="audio/mpeg" length="5315132" />
@@ -217,13 +224,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-27.mp3" type="audio/mpeg" length="4963820" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-27.mp3</guid>
       <pubDate>Tue, 27 Oct 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Daily Brief — Morning Edition — Monday, 26 October 2026</title>
-      <description>SK Hyper seeks $350 billion for its first-phase South Korean AI data centre buildout, federal redundancies surge past $100 million across three departments, Queensland small businesses react angrily to proposed discretionary trust tax changes, and Gold Coast police return seized jet skis for lack of legal disposal power. 한국어로도 브리핑을 전해드립니다.</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-26.mp3" type="audio/mpeg" length="5094860" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-26.mp3</guid>
-      <pubDate>Mon, 26 Oct 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
