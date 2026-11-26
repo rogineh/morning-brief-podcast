@@ -1,0 +1,11 @@
+{
+  "date": "2026-11-27",
+  "title": "Morning Brief — Friday, 27 November 2026",
+  "description": "Australia's national bulk-billing rate climbs to a new high, Queensland sends its largest-ever trade delegation to Shanghai's China International Import Expo, and the Gold Coast opens tenders for a new light rail extension linking the university hospital to Harbour Town. 한국어 방송도 이어집니다.",
+  "show": {
+    "docs_subdir": "ksb",
+    "site_base": "https://rogineh.github.io/morning-brief-podcast/ksb",
+    "channel_title": "Morning Brief — Australia Edition",
+    "channel_description": "A short daily news brief covering Australian national news, Queensland, and the Gold Coast — made to listen to on the morning drive."
+  }
+}
