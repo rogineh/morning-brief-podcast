@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/ksb/</link>
     </image>
     <item>
+      <title>Morning Brief — Friday, 27 November 2026</title>
+      <description>Australia's national bulk-billing rate climbs to a new high, Queensland sends its largest-ever trade delegation to Shanghai's China International Import Expo, and the Gold Coast opens tenders for a new light rail extension linking the university hospital to Harbour Town. 한국어 방송도 이어집니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-11-27.mp3" type="audio/mpeg" length="4009508" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-11-27.mp3</guid>
+      <pubDate>Fri, 27 Nov 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Morning Brief — Thursday, 26 November 2026</title>
       <description>Australian citrus growers secure easier access to the South Korean market, construction on the new Bundaberg Hospital moves into its main building phase, and the Gold Coast's Burleigh Town Hotel reopens after a $4.5 million renovation. 한국어 방송도 이어집니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-11-26.mp3" type="audio/mpeg" length="3944660" />
@@ -217,13 +224,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-29.mp3" type="audio/mpeg" length="4140812" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-29.mp3</guid>
       <pubDate>Thu, 29 Oct 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Morning Brief — Wednesday, 28 October 2026</title>
-      <description>Police forces expand automated drone programs, Bega backs a new flood-resilient cold storage facility near Cairns, and the Gold Coast hosts the Asia Pacific Screen Awards and Forum. 한국어 방송도 이어집니다.</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-28.mp3" type="audio/mpeg" length="3807884" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-28.mp3</guid>
-      <pubDate>Wed, 28 Oct 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
