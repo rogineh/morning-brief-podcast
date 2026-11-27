@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/</link>
     </image>
     <item>
+      <title>Daily Brief — Morning Edition — Saturday, 28 November 2026</title>
+      <description>OpenAI rolls out its new Astra and Sol models, Virgin Australia pushes for long-term approval of expanded Qatar Airways-linked Doha flights, Queensland communities clean up after a major storm as the Bureau warns of a volatile severe weather season, and the Gold Coast approves a $200 million Surfers Paradise tower. 한국어로도 브리핑을 전해드립니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-11-28.mp3" type="audio/mpeg" length="5674388" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-11-28.mp3</guid>
+      <pubDate>Sat, 28 Nov 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Daily Brief — Morning Edition — Friday, 27 November 2026</title>
       <description>Washington's tightened AI chip export rules to China bite a week in, the RBA's latest rate rise to 4.85% keeps squeezing mortgage holders, a Queensland committee wraps up its review of mining objection reforms, and the Gold Coast winds down its annual Schoolies Week. 한국어로도 브리핑을 전해드립니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-11-27.mp3" type="audio/mpeg" length="5591540" />
@@ -217,13 +224,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-30.mp3" type="audio/mpeg" length="5424764" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-30.mp3</guid>
       <pubDate>Fri, 30 Oct 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Daily Brief — Morning Edition — Thursday, 29 October 2026</title>
-      <description>Nvidia invests $3 billion in Meta's massive equity offering, Star Entertainment is fined $260 million over money laundering failures, Queensland regions post record migration growth, and unusually large bluebottles appear early on Gold Coast beaches. 한국어로도 브리핑을 전해드립니다.</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-29.mp3" type="audio/mpeg" length="4966916" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/audio/brief-2026-10-29.mp3</guid>
-      <pubDate>Thu, 29 Oct 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
