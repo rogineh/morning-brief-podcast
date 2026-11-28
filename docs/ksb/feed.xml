@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/ksb/</link>
     </image>
     <item>
+      <title>Morning Brief — Saturday, 28 November 2026</title>
+      <description>Australia's unemployment rate climbs to a five-year high, Queensland releases a new ten-year plan to support volunteering ahead of the 2032 Games, and the Gold Coast Suns reshape their list with Scott Pendlebury among their trade period arrivals. 한국어 방송도 이어집니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-11-28.mp3" type="audio/mpeg" length="4009820" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-11-28.mp3</guid>
+      <pubDate>Sat, 28 Nov 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Morning Brief — Friday, 27 November 2026</title>
       <description>Australia's national bulk-billing rate climbs to a new high, Queensland sends its largest-ever trade delegation to Shanghai's China International Import Expo, and the Gold Coast opens tenders for a new light rail extension linking the university hospital to Harbour Town. 한국어 방송도 이어집니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-11-27.mp3" type="audio/mpeg" length="4009508" />
@@ -217,13 +224,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-30.mp3" type="audio/mpeg" length="3650348" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-30.mp3</guid>
       <pubDate>Fri, 30 Oct 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Morning Brief — Thursday, 29 October 2026</title>
-      <description>Federal MPs and senators are set to be offered duress alarms as part of a safety review, Capricornia MP Michelle Landry announces her retirement, and the Gold Coast council pushes for tougher waterway pollution penalties. 한국어 방송도 이어집니다.</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-29.mp3" type="audio/mpeg" length="4140812" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/ksb/audio/brief-2026-10-29.mp3</guid>
-      <pubDate>Thu, 29 Oct 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>

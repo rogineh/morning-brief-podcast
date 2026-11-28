@@ -16,6 +16,13 @@
       <link>https://rogineh.github.io/morning-brief-podcast/afternoon/</link>
     </image>
     <item>
+      <title>Daily Brief — Afternoon Edition — Saturday, 28 November 2026</title>
+      <description>Meta's new Muse AI models roll out across major cloud platforms, a new 'no further stay' visa condition takes effect for tourist visa arrivals, Queensland celebrates its best tourism operators at the state Tourism Awards, and the Gold Coast's GC Aqua Park earns Hall of Fame honours. 한국어로도 브리핑을 전해드립니다.</description>
+      <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-11-28.mp3" type="audio/mpeg" length="5419172" />
+      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-11-28.mp3</guid>
+      <pubDate>Sat, 28 Nov 2026 06:30:00 +1000</pubDate>
+    </item>
+    <item>
       <title>Daily Brief — Afternoon Edition — Friday, 27 November 2026</title>
       <description>Anthropic's Claude Meetings beta lets its AI join video calls as an active participant, a Federal Court ruling finds Coles misled shoppers over its 'Down Down' discounts, Robert Irwin is named Queensland's 2027 Australian of the Year, and the Gold Coast gears up for an expanded summer lifeguard patrol season. 한국어로도 브리핑을 전해드립니다.</description>
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-11-27.mp3" type="audio/mpeg" length="5370404" />
@@ -217,13 +224,6 @@
       <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-30.mp3" type="audio/mpeg" length="4905596" />
       <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-30.mp3</guid>
       <pubDate>Fri, 30 Oct 2026 06:30:00 +1000</pubDate>
-    </item>
-    <item>
-      <title>Daily Brief — Afternoon Edition — Thursday, 29 October 2026</title>
-      <description>Google unveils its cybersecurity-focused Gemini 4 Carbon model, a court dismisses a challenge to the Alpha Coal Project, Queensland child safety workers stage their longest strike since 2018, and Gold Coast casino jobs face fresh uncertainty after Star Entertainment's record fine. 한국어로도 브리핑을 전해드립니다.</description>
-      <enclosure url="https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-29.mp3" type="audio/mpeg" length="5163020" />
-      <guid isPermaLink="false">https://rogineh.github.io/morning-brief-podcast/afternoon/audio/brief-2026-10-29.mp3</guid>
-      <pubDate>Thu, 29 Oct 2026 06:30:00 +1000</pubDate>
     </item>
   </channel>
 </rss>
